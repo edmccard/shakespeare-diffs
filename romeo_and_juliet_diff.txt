@@ -25,16 +25,16 @@
 219 [uncharmed] {Q1}*unharmed* % O
     O 1.1.208
     - From love's weak childish bow she lives [uncharmed] *unharmed*.
-226 {Q4}makes *make* % N
+226 {Q4}[makes] *make* % N
     N 1.1.213
     - She hath, and in that sparing [makes] *make* huge waste.
-260 {Q1} line omitted % OA
+260 {Q1}_line omitted_ % OA
     O 1.2.14; A 1.2.14
     - And too soon marred are those so early made
     - [Earth hath swallowed all my hopes but she,]
     - She's the hopeful lady of my earth.
     - But woo her, gentle Paris, get her heart,
-261 {Q1} line omitted % O
+261 {Q1}_line omitted_ % O
     O 1.2.14
     - And too soon marred are those so early made
       [She's the hopeful lady of my earth.]
@@ -238,7 +238,7 @@
 1522 {Ed}[PETRUCHIO] Away, Tybalt! % RC
     R 3.1.90; C 3.1.82
     - /PETRUCHIO/ Away, Tybalt!
-    - <Away Tybalt>
+    - \<Away Tybalt>\
 1524 {Ed}*your* % O
     O 3.1.91
     - A plague a both *your* houses! I am sped.
@@ -251,7 +251,7 @@
 1558 [he gan] {Ed}*Again* % C
     C 3.1.113
     - [He gan] *Again* in triumph, and Mercutio slain?
-1558 he gan->Alive {Q1} % AF
+1558 [he gan] {Q1}*Alive* % AF
     A 3.1.124; F 3.1.127
     - [He gan] *Alive* in triumph, and Mercutio slain?
 1560 {Q1}[fire-eyed] *fire and* % N
@@ -335,7 +335,7 @@
 2223 {Hoppe}[hour, tide, time] % RCO
     R 3.5.176; C 3.5.176; O 3.5.176
     - God's bread, it makes me mad.
-    - Day, night, /hour, tide, time,/ work, play,
+    - /Day, night, hour, tide, time, work, play,/
     - God's bread, it makes me mad. \Day, night, work, play\
 2227 {Ed}[ligned] {Riv}*liened* % R
     R 3.5.180
