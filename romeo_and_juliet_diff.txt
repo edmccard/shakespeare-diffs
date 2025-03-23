@@ -1,0 +1,445 @@
+34 comes {Q1}*two* of % R
+    R 1.1.31
+    - Draw thy tool, here comes *two* of the house of Montagues.
+41 [sides] {Q1}*side* % O
+    O 1.1.37
+    - Let us take the law of our [sides] *side*; let them begin.
+122 {Q1}[drive] {Fol}*drove* % F
+    F 1.1.122
+    - A troubled mind [drive] *drove* me to walk abroad,
+155 [same] {Ed}*sun* % RCO
+    R 1.1.153; C 1.1.144; O 1.1.150
+    - Or dedicate his beauty to the [same] *sun*.
+182 {Q1}[create] *created* % N
+    N 1.1.172
+    - O any thing of nothing first [create] *created*
+199 [loving] {Ed}*lover's* % O
+    O 1.1.189
+    - a sea nourished with [loving] *lover's* tears,
+210 {Q1}*Bid* ... [makes] *make* % RCO
+    R 1.1.202; C 1.1.193; O 1.1.199
+    - *Bid* a sick man in sadness [makes] *make* his will
+214 [mark-man] {Nor}*mark, man* % N
+    N 1.1.201
+    - A right good [mark-man] *mark, man*!
+219 [uncharmed] {Q1}*unharmed* % O
+    O 1.1.208
+    - From love's weak childish bow she lives [uncharmed] *unharmed*.
+226 {Q4}makes *make* % N
+    N 1.1.213
+    - She hath, and in that sparing [makes] *make* huge waste.
+260 {Q1} line omitted % OA
+    O 1.2.14; A 1.2.14
+    - And too soon marred are those so early made
+    - [Earth hath swallowed all my hopes but she,]
+    - She's the hopeful lady of my earth.
+    - But woo her, gentle Paris, get her heart,
+261 {Q1} line omitted % O
+    O 1.2.14
+    - And too soon marred are those so early made
+      [She's the hopeful lady of my earth.]
+    - But woo her, gentle Paris, get her heart,
+276 [fennel] {Q1}*female* % O
+    O 1.2.27
+    - Among fresh [fennel] *female* buds shall you this night
+279 {Q4}[on] *one* % N
+    N 1.2.32
+    - Which [on] *one* more view of many, mine being one,
+285 {Q1}[written here!] *written. Here* % N
+    N 1.2.38
+    - Find them out whose names are /written here! It/ is written
+    - Find them out whose names are \written. Here it\ is written
+318 {Q1}[and] % N
+    N 1.2.71
+    - my fair niece Rosaline; [and] Livia; Signor Valentio
+322 {Q1}[?]
+    N 1.2.76
+    - Whither[?] to supper?
+322 {Ed} to supper _moved_ % O
+    O 1.2.75
+    - ROMEO Whither? /to supper?/
+    - PETER /To our house./
+    - ROMEO Whither?
+    - PETER \To supper to our house.\
+326 {Q1}[thee] *you* N
+    N 1.2.80
+    - Indeed, I should have asked [thee] *you* that before.
+338 {Ed}[fires] *fire* % FN
+    F 1.2.96; N 1.2.92
+    - Maintains such falsehood, then turn tears to [fires] *fire*,
+391 [holydam]->{Oxf}*halidom* % O
+    O 1.3.45
+    - And by my [holydam] *halidom*
+412 {Q1}[honor] *hour* % N
+    N 1.3.68
+    - JULIET It is an [honor] *hour* I dream not of.
+    - NURSE An [honor] *hour*?
+462 _2 lines from Q1 omitted_ % CN
+    C 1.4.6; N 1.4.6
+    - Scaring the ladies like a crow-keeper,
+    - [Nor no without-book prologue, faintly spoke]
+      [After the prompter, for our entrance]
+495 [Or save your reverence] {Q1}*Of this sir-reverence* % R
+    R 1.4.42
+    - ,,, We'll draw thee from the mire
+    - [Or -- save your reverence --] love,
+    - *Of this sir-reverence* love,
+495 [Or] {Q1}*Of* % O
+    O 1.4.42
+    - ,,, We'll draw thee from the mire
+    - [Or] *Of* -- save your reverence -- love,
+499 [light] {Ed}*like* % RCO
+    R 1.4.45; C 1.4.45; O 1.4.45
+    - We waste our lights in vain, [light] *like* lights by day.
+501 {Ed}[five] *fine* % N
+    N 1.4.45
+    - Five times in that ere once in our [five] *fine* wits.    
+511 {Q1}_line added_ % O
+    O 1.4.54
+    - MERCUTIO O then I see Queen Mab hath been with you.
+    - *BENVOLIO Queen Mab, what's she?*
+    - MERCUTIO She is the fairies' midwife ...
+513 [Over] {Q1}*Athwart* % O
+    O 1.4.59
+    - [Over] *Athwart* men's noses as they lie asleep
+514 {Ed} _3 lines moved from 520_ % RCA
+    - Over men's noses as they lie asleep.
+    R 1.4.59; C 1.4.59; A 1.4.59
+    - Over men's noses as they lie asleep.
+    - *Her chariot is an empty hazelnut*
+    - *Made by the joiner squirrel or old grub,*
+    - *Time out o' mind, the fairies' coachmakers.*
+    - Her wagon spokes made of long spinner's legs,
+515 {Ed}_ends of two lines transposed_ % O
+    O 1.4.62
+    - Her traces of the /smallest spider web/,
+    - Her collars of the /moonshine's watery beams/,
+    - Her traces of the \moonshine's watery beams\,
+    - Her collars of the \smallest spider web\,
+524 [On] {Q1}*>O'er* % RCO
+    R 1.4.72; C 1.4.72; O 1.4.73
+    - [On] *O'er* courtiers' knees
+525 {Q1}_line removed_ & O
+    O 1.4.74
+    - On courtiers' knees, that dream on curtsies straight;
+     -[O'er lawyers' fingers, who straight dream on fees;]
+    - O'er ladies' lips, who straight on kisses dream,
+527 {Q1}[breaths] *breath* % RN
+    R 1.4.76; N 1.4.74
+    - Because their [breaths] *breath* with sweetmeats tainted are.
+528 [courtier's nose] {Q1}*lawyer's lip* % O
+    O 1.4.77
+    - Sometime she gallops o'er a [courtier's nose] *lawyer's lip*,    
+531 [he dreams] *dreams he* % O
+    O 1.4.81
+    - Then [he dreams] *dreams he*
+554 [side] {Q1}*face* % O
+    O 1.4.103
+    - Turning his [side] *face* to the dew-dropping south.
+564 {Q1}[sail] *suit* % AN
+    A 1.4.112; N 1.4.111
+    - But he that hath the steerage of my course
+    - Direct my [sail] *suit*
+581 [longer] {Oxf}*longest* % O
+    O 1.5.15
+    - Be brisk a while, and the [longer] *longest* liver take all.
+671 [gentle] {Ed}*gentler* % O
+    O 1.5.93
+    - the [gentle] *gentler* sin is this
+672 {Q2}*did* % N
+    N 1.5.206
+    - My lips, two blushing pilgrims, *did* ready stand
+725 ['tis] {F1}this
+    F 1.5.156
+    - What's ['tis] *this*? What's ['tis'] *this*?
+763 [Abraham] {Ed}Adam % O
+    O 2.1.13
+    - Young [Abraham] *Adam* Cupid, he that shot so trim
+763 {Q1}[trim] *true* % N
+    N 2.1.13
+    - Young Abraham Cupid, he that shot so [trim] *true*
+812 [eye] {Q1}*eyes* % RCA
+    R 2.2.20; C 2.2.20; A 2.2.20
+    - her [eye] *eyes* in heaven
+825 [puffing] *passing* % O
+    O 2.1.73
+    - the lazy [puffing] *passing* clouds
+835 [or any other part] {Fol} *O, be some other name*
+    F 2.2.44
+    - Nor arm nor face, /nor any other part/
+    - Belonging to a man. /O be some other name!/
+    - Nor arm nor face. \O be some other name\
+      Belonging to a man
+899 [coying] {Q1}*cunning* % OA
+    O 2.1.143; A 2.2.101
+    - ... I'll prove more true
+    - Than those that have more [coying] *cunning* to be strange.
+899 [more] {Ed}the % N
+    N 2.1.143
+    - Than those that have [more] *the* coying to be strange.
+965 [tassel] *tercel* % N
+    N 2.1.201
+    - To lure this [tassel] *tercel*-gentle back again.    
+969 {Q1}*Romeo's name.* % RO
+    R 2.2.163; O 2.1.208
+    - With repetition of my *Romeo's name.* Romeo!
+969 Romeo {Q1}*'s name* % C
+    C 2.2.163
+    - With repetition of my Romeo*'s name*.
+974 [niesse] {Fol}*dear* % F
+    F 2.2.178
+    - JULIET Romeo! ROMEO My [niesse?] *dear.*
+989 [silken] {Q1}*silk* % O
+    O 2.1.225
+    - And with a [silken] *silk* thread plucks it back again
+1003 {F2}_4 lines retained_ % A
+    A 2.2.188
+    *The grey-eyed morn smiles on the frowning night*
+    *Chequering the eastern clouds wtih streaks of light,*
+    *And darkness, fleckled, like a drunkard reels*
+    *From forth day's pathway made by Titan's wheels.*
+    - Hence will I to my ghostly sire's close cell,
+1003 {Ed}[sire's] *friar's* % FN
+    F 2.2.204; N 2.1.230
+    - Hence will I to my ghostly [sire's] *friar's* close cell,
+1009 [burning] {Q1}fiery % RCO
+    R 2.3.4; C 2.3.4; O 2.2.4
+    - From forth day's path, and Titan's [burning] *fiery* wheels.
+1032 [stays] {Q1}*slays* % O
+    O 2.2.26
+    - Being tasted, [stays] *slays* all senses with the heart.
+1081 [ringing] {Q4}*ring* % O
+    O 2.2.74
+    - Thy old groans yet [ringing] *ring* in mine ancient ears:
+1132 {Ed} [phantasimes] *fantasticos* % A
+    A 2.4.29
+    - The pox of such antic lisping affecting [phantasimes] *fantasticoes*,
+1172 [switch] {Q1}*swits* % RCA
+    R 2.4.69; C 2.4.58; A 2.4.68
+    - [Switch] *swits* and spurs, [switch] *swits* and spurs
+1182 *a* very
+    O 2.3.75; N 2.3.73
+    - Thy wit is *a* very bitter sweeting;
+1292 {F2} *I* warrant % O
+    O 2.3.187
+    - *I* warrant thee, my man's as true as steel.
+1338 [jaunce] {Q1}*jaunt* % AF
+    A 2.5.26; F 2.5.27
+    - Fie, how my bones ache! What a [jaunce] *jaunt* have I!
+1363 [jauncing] {Q1}*jaunting* % F
+    F 2.5.55
+    - To catch my death with [jauncing] *jaunting* up and down.
+1420 [music's] {Q2}*music* % N
+    N 2.5.27
+    - This neighbor air, and let rich [music's] *music* tongue
+1427 [sum] *some* % O
+    O 2.5.34
+    - I cannot sum up [sum] *some* of half my wealth
+1522 {Ed}[PETRUCHIO] Away, Tybalt! % RC
+    R 3.1.90; C 3.1.82
+    - /PETRUCHIO/ Away, Tybalt!
+    - <Away Tybalt>
+1524 {Ed}*your* % O
+    O 3.1.91
+    - A plague a both *your* houses! I am sped.
+1558 [gan] {Ed}*gone* % R
+     R 3.1.122
+     - He [gan] *gone* in triumph, and Mercutio slain?
+1558 [gan] {Oxf}*gad* % O
+    O 3.1.122
+    - He [gan] *gad* in triumph, and Mercutio slain?
+1558 [he gan] {Ed}*Again* % C
+    C 3.1.113
+    - [He gan] *Again* in triumph, and Mercutio slain?
+1558 he gan->Alive {Q1} % AF
+    A 3.1.124; F 3.1.127
+    - [He gan] *Alive* in triumph, and Mercutio slain?
+1560 {Q1}[fire-eyed] *fire and* % N
+    N 3.1.122
+    - And [fire-eyed] *fire and* fury be my conduct now.
+1591 {Ed}[cousin] % RC
+    R 3.1.147; C 3.1.138
+    - O Prince, O [cousin], husband, O, the blood is spilled
+1610 {Q1}[agile] {Oxf}*agent* % O
+    O 3.1.165
+    - His [agile] *agent* arm beats down their fatal points,
+1633 [hearts] {Q1}*hates* % OA
+    O 3.1.187; A 3.1.190
+    - I have an interest in your [hearts'] *hates'* proceeding;
+1637 {Q1}[I] *It* % N
+    N 3.1.190
+    - [I] *It* will be deaf to pleading and excuses,
+1650 {Ed}*th'* % R
+    R 3.2.6
+    - That *th'* runaway's eyes may wink
+1653 {Q2}*And* % N
+    N 3.2.9
+    - *And* by their own beauties, or, if love be blind,
+1659 [grow] {Ed}*grown* % O
+    O 3.2.15
+    - till strange love [grow] *grown* bold,
+1663 [upon] {F2}*on* % O
+    O 3.2.19
+    - Whiter than new snow [upon] *on* a raven's back.
+1684 [weraday] *welladay* % ON
+    O 3.2.37; N 3.2.27
+    -  Ah, [weraday] *welladay*! He's dead
+1818 [Here] {Q1}*hence*
+    O 3.3.15; A 3.3.15
+    - [Here] *Hence* from Verona art thou banishèd.
+1843 {Q2}_4 lines in original order_ % N
+    N 3.3.40
+    - Still blush, as thinking their own kisses sin
+    - /But Romeo may not, he is banished/
+    - / Flies may do this, but I from this must fly;/
+    - /They are free men, but I am banished./
+    - /And sayest thou yet that exile is not death?/
+    - \This may flies do, when I from this must fly --\
+    - \And sayest thou yet that exile is not death?\
+    - \But Romeo may not, he is banished.\
+    - \Flies may do this, but I from this must fly;-\
+    - \They are free men, but I am banished.\
+1854 {Q1}[Thou] *Then* % N
+    N 3.3.52
+    - [Thou] *Then,* fond mad man, hear me a little speak.
+1892 [errand] *errant*
+    R 3.3.79
+    - you shall know my [errand] *errant*.
+1897 [Where's] {Q1}*Where is* % OA
+    O 3.3.82; A 3.3.82
+    - [Where's] *Where is* my lady's lord? Where's Romeo?
+1961 [pouts] *pout'st* % O
+    O 3.3.143
+    - Thou [pouts] *pout'st* upon thy fortune and thy love.
+2045 [exhaled] {Q1}*exhales* % AN
+    A 3.5.13; N 3.5.13
+    - It is some meteor that the sun [exhaled] *exhales*
+2063 [change] {Ed}*changed* % COF
+    C 3.5.31; O 3.5.31; F 3.5.31
+    - Some say the lark and loathed toad [change] *changed* eyes;
+2076 [ay] {Q1}*my* % O
+    O 3.5.43
+    - Love, lord, [ay,] *my* husband, friend,
+2112 {Oxf}*so* % O
+    O 3.5.76
+    - but not the friend which you *so* weep for.
+2120 {Q4}[him] % N
+    N 3.5.82
+    - God pardon [him]; I do with all my heart,
+2148 [expects] {Oxf}*expect'st* % O
+    O 3.5.110
+    - That thou [expects] *expect'st* not
+2170 [counterfeits] *counterfeit'st* % O
+     O 3.5.131
+     - Thou [counterfeits] *counterfeit'st* a bark, a sea, a wind,
+2223 {Hoppe}[hour, tide, time] % RCO
+    R 3.5.176; C 3.5.176; O 3.5.176
+    - God's bread, it makes me mad.
+    - Day, night, /hour, tide, time,/ work, play,
+    - God's bread, it makes me mad. \Day, night, work, play\
+2227 {Ed}[ligned] {Riv}*liened* % R
+    R 3.5.180
+    - youthful and nobly [ligned] *liened*
+2227 {Ed}[ligned] {F}*lined* % ON
+    O 3.5.180; N 3.5.181
+    - youthful and nobly [ligned] *lined*
+2274 [here] {Ed}*hence* % O
+    O 3.5.225
+    - As living [here] *hence*, and you no use of him.
+2300 [talked] *talk*
+    - And therefore have I little |talked| of love,
+    F 4.1.7; N 4.1.7
+    And therefore have I little [talked] *talk* of love,
+2340 [care] {Q1}*cure* % FN
+    F 4.1.46
+    N 4.1.45
+    - Come weep with me, past hope, past [care] *cure*, past help.
+2380 [shroud] {Ed}*tomb* % O
+    O 4.1.85
+    - And hide me with a dead man in his [shroud] *tomb*
+2395 {Ed}[wanny] *paly* % F
+    F 4.1.102
+    - To [wanny] *paly* ashes, thy eyes' windows fall
+2406 {Ed}_line retained_ % N
+    N 4.1.111
+    - In thy best robes, uncovered on the bier,
+    - *Be borne to burial in thy kindred's grave.*
+    - Thou shall be borne to that same ancient vault
+2407 [shall] {Q3}*shalt* % OAF
+    O 4.1.111; A 4.1.111; F 4.1.113
+    - Thou [shall] *shalt* be borne to that same ancient vault
+2452 [becomed] {Ed}*becoming* % O
+    O 4.2.26
+    - And gave him what [becomed] *becoming* love I might,
+2566 {Q4}[faith] *Father* % N
+    N 4.4.20
+    - Good [faith] *Father*, 'tis day.
+2590 [weraday] {Oxf}*welladay* % ON
+   O 4.4.42; N 4.4.42
+   - O [weraday] *welladay* that ever I was born.
+2616 {F2}*See* % O
+    O 4.4.63
+    - Hath death lain with thy wife. *See* there she lies,
+2621 {Q1}[long] *love* % N
+    N 4.4.68
+    - Have I thought [long] *, love,* to see this morning's face
+2622 {Oxf}_2 speeches combined_ % O
+    O 4.4.70
+    - And doth it give me such a sight as this?
+    - *Beguiled, divorcèd, wronged, spited, slain!*
+    - *Most detestable death, by thee beguiled,*
+    - *By cruel, cruel thee quite overthrown.*
+    - *O love, O life: not life, but love in death.*
+2645 {Ed}[cure] *care* % N
+    N 4.4.92
+    - Confusion's [cure] *care* lives not in these confusions
+2662 {F2}[fond] *some* % N
+    N 4.4.109
+    - For though [fond] *some* nature bids us all lament,
+2685 {Q4}*of woe* % O
+    O 4.4.132
+    - my heart itself plays "My heart is full *of woe*"
+2706 _1 line from Q1 omitted_ % N
+    N 4.4.149
+    - When griping griefs the heart doth wound
+    - [And doleful dumps the mind oppress]
+    - Then music with her silver sound
+2708 [Simon Catling] {Oxf}*Matthew Minikin*
+    O 4.4.156
+    - What say you, [Simon Catling] *Matthew Minikin*?
+2710 [prates] {Q1}*pretty* % R
+    R 4.5.133
+    - [Prates.] *Pretty!* What say you,
+    -  ...
+    - [Prates] *Pretty* too! What say you,
+2712 [James] {Oxf}*Simon* % O
+    O 4,4,162
+    - What say you, [James] *Simon* Soundpost?
+2738 {Q2}*lady* Juliet % N
+    N 5.1.15
+    - How doth my *lady* Juliet? That I ask again,
+2738 [doth] {Q1}*fares* % O
+    O 5.1.15
+    - How [doth] *fares* my lady Juliet? That I ask again,
+2921 {Ed}[conjuration] {Ed}*commination* % F
+    F 5.3.68
+    - I do defy thy [conjuration] *commination*
+2960 {Q3}[palace] *pallat* % ON
+    O 5.3.107; N 5.3.107
+    - And never from this [palace] *pallet* of dim night
+3066 [your] {Ed}*our* % OF
+    O 5.3.193; F 5.3.201
+    - What fear is this which startles in [your] *our* ears?    
+3079 [it] {Q3}*is* % A
+    A 5.3.205
+    - And [it] *is* mis-sheathed in my daughter's bosom.
+3084 [now] {Q1}*more* % O
+    O 5.3.208
+    - To see thy son and heir, [now] *more* early down.
+3107 {Q1}[that] *that's* % AN
+    A 5.3.232; N 5.3.232
+    - And she, there dead, [that] *that's* Romeo's faithful wife.
+3174 [raise] *ray* % FN
+    F 5.3.310
+    N 5.3.299
+    - For I will [raise] *ray* her statue in pure gold,
