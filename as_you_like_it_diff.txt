@@ -1,0 +1,209 @@
+77 [will] {Ed}*'will'* % C
+    C 1.2.62
+    - you shall have some part of your [will] *'will'*
+221 [perceiveth] {F2}perceiving ... {Ed}[and] % CA
+    C 1.2.42; A 1.2.51
+    - but Nature's, who /perceiveth/ our natural wits too dull
+    - to reason of such /goddesses and hath/ ...
+    - but Nature's, who, \perceiving\ our natural wits too dull
+    - to reason of such \goddesses, hath\ ...
+247 [Frederick] {Ed}*Ferdinand* % A
+    A 1.2.80-81
+    - One that old [Frederick] *Ferdinand*, your father, loves.    
+248 {Ed}CELIA [ROSALIND]->CELIA % AN
+    A 1.2.81; N 1.2.73
+    - [CELIA] *ROSALIND* My father's love
+256 [le] *the* % CN
+    C 1.2.72; N 1.2.80
+    - Here comes Monsieur [Le] *the* Beau
+440 [taller] {Ed}*smaller* % RF
+    R 1.2.272; F 1.2.273
+    - But yet indeed the [taller] *smaller* is his daughter.
+440 [taller] {Ed}*shorter* % O
+    O 1.2.262
+    - But yet indeed the [taller] *shorter* is his daughter.
+560 [lacks] {Oxf}*lack'st thou* % O
+    O 1.3.95
+    - No, hath not? Rosalind, [lacks] *lack'st thou* the the love
+596 {F3}[travel] *travail* % CA
+    C 1.2.121; A 1.3.129
+    - Would he not be a comfort to our [travel] *travail*?
+602 [we] in *we* % C
+    C 1.3.127
+    - Now go /we in/ content,
+    - Now go \in we\ content,
+638 [antic] {Ed}*antique* % RC
+    R 2.1.31; C 2.1.31
+    - Under an oak, whose [antic] *antique* root peeps out
+654 [into] {Ed}*in* % C
+    C 2.1.46
+    - First, for his weeping [into] *in* the needless stream
+657 [had] {Ed}*hath* % C
+    C 2.1.49
+    - To that which [had] *hath* too much.
+658 [friend] {Ed}*friends* % RF
+    R 2.1.50; F 2.1.53
+    - Left and abandoned of his velvet [friend] *friends*
+664 [do] {Oxf}*should* % O
+    O 2.1.56
+    - Wherefore [do] *should* you look
+667 {F2}*the* % RO
+    R 2.1.59; O 2.1.59
+    - The body of *the* country, city, court,
+762 [when service] {Ard}*where servants* % A
+    A 2.3.58
+    - [When service] *Where servants* sweat for duty not for meed.
+784 {Ed}[weary] *merry* % CN
+    C 2.4.1; N 2.4.i
+    - Oh Jupiter, how [weary] *merry* are my spirits!
+1007 [A] {Ed}*O* ... [O] {Ed}*A* % C
+    C 2.7.33
+    - JAQUES ... O noble fool!
+    -        [A] *O* worthy foo1! ...
+    - DUKE What fool is this?
+    - JAQUES [O] *A* worthy fool!
+1029 [not to] {Cam}*if he* % C
+    C 2.7.55
+    - He that a fool doth very wisely hit
+    - Doth very foolishly, although he smart,
+    - [Not to] *if he* seem senseless of the bob.
+1029 [not to] seem {Oxf}*aught but* % O
+    O 2.7.55
+    - He that a fool doth very wisely hit
+    - Doth very foolishly, although he smart,
+    - /Not to seem/ senseless of the bob.
+    - \Seem aught but\ senseless of the bob.
+1061 {F2}[comes] *come* % C
+    C 2.7.87
+    - But who [comes] *come* here?
+1097 [is] it {Nor}*is* % N
+    N 2.7.120
+    - True /is it/ that we have seen better days,
+    - True \it is\ that we have seen better days,
+1112 [you] {Nor}*your* % N
+    N 2.7.134
+    - And we will nothing waste till [you] *your* return.
+1162 {Ed}[Then] *The* % C
+    C 2.7.184
+    - [Then] *The* heigh-ho, the holly,
+1169 [were] {Ard}*be* % A
+    A 2.7.195
+    - If that you [were] *be* the good Sir Rowland's son,
+1228 [good] {ArD}*poor* % A
+    A 3.2.28
+    - he that hath learned no wit ... may complain of [good] *poor* breeding
+1292 [face] {Ed}*fair* % A
+    A 3.2.91
+    - Let no [face] *fair* be kept in mind
+    - But the fair of Rosalind.
+1303 [wintered] {F3}*winter* % A
+    A 3.2.102
+    - [Wintered] *Winter* garments must be lined
+1353 [Jupiter] {Ed}*pulpiter* % A
+    A 3.2.152
+    - O most gentle [Jupiter] *pulpiter*
+1356 [back, friends.] {Ed}*Backfriends!* % C
+    C 3.3.133
+    - How now? [back, friends] *Backfriends!* -- Shepherd, go off a little.
+1431 {Ed}[forth] % R
+    R 3.2.237
+    - When it drops [forth] such* fruit.
+1438 {Ed}[thy] *the* % N
+    N 3.2.225
+    - Cry "holla" to [thy] *the* tongue ...
+1548 {F2}[deifying] *defying* % C
+    C 3.3.303
+    - all, forsooth, [deifying] *defying* the name of Rosalind
+1630 {Ed}[feigning] *faining* % A
+    A 3.3.18
+    - the truest poetry is the most [feigning] *faining*
+1632 {Ed}*it* % CO
+    C 3.4.15; O 3.3.18
+    - what they swear in poetry *it* may be said, as lovers, they do feign    
+1738 {F2}[a] % A
+    N 3.4.27
+    - the oath of [a] lover is no stronger
+1750 {Ed}[puny] *puisne* % R
+    R 3.4.43
+    - as a [puny] *puisne* tilter, that spurs his horse but on one side
+1793 {Ard}*thou* % A
+    A 3.5.22
+   - lean *thou* upon a rush
+1902  {F2}*I* % AF
+     A 3.5.129; F 3.5.138
+   - I love him not, nor hate him not,
+   - and yet *I* have more cause to hate him than to love him
+1933 [contemplation] *computation* % A
+    A 4.1.18
+    - and indeed the sundry [contemplation] *computation* of my travels    
+1934 {F2}[my] *by* % N
+    N 4.1.18
+    - in which [my] *by* often ruminaion
+1973 [beholding] {Ed}*beholden* % CON
+    C 4.1.48; O 4.1.57; N 4.1.53
+    - you are fain to be [beholding] *beholden* to your wives for
+2121 [I'll] {Ed}*I* % A
+    A 4.1.203
+    - [I'll] *I* tell thee
+2139 {Ard}*JAQUES* % A
+    A 4.2.12
+    - SONG ... His leather skin and horns to wear
+    - *JAQUES* Then sing him home,
+    -          The rest shall bear this burden
+    - SONG     Take thou no scorn to wear the horn
+2139 _line of speech to stage direction_ % RF
+    R 4.2.12; F 4.2.12
+    - Then sing him hime.
+    - /The rest shall bear this burden/
+    - \<The rest shall bear this burthen>\
+2141 [ere] {Nor}*e'er* % N
+    N 4.2.15
+    - It was a crest [ere] *e'er* thou wast born
+2205 [this love] {Ard}*these lines* % A
+    A 4.3.56
+    - He that brings [this love] *these lines* to thee
+2239 [owner] {Ed}*owners* % C
+    C 4.3.84
+    - Are not you the [owner] *owners* of the house
+2309 {F2}[his] *this* % CN
+    C 4.3.150; N 4.3.154
+    - and to give this napkin, dyed in [his] *this* blood    
+2441 {F2}[overcame] *overcome* % N
+    N 5.2.29
+    - "I came, saw, and [overcame] *overcome*."
+2505 [observance] {Ed}*obedience* % COA
+    C 5.2.80; O 5.2.91; A 5.2.92
+    - All adoration, duty, and observance,
+    - All humbleness, all patience and impatience
+    - All purity, all trial, all [observance] *obedience*;
+2513 [Why] {Ed}*Who* do you speak [too] *to* % CA
+    C 5.2.90; A 5.2.102
+    - /Why do you speak too/, "Why blame me to love you?"
+    - \Who do you speak to\, "Why blame me to love you?"
+2521 [satisfied] {Ed}*satisfy* % COF
+    C 5.3.96; O 5.2.109; F 5.2.121
+    - I will satisfy you, if ever I [satisfied] *satisfy* man
+2544 [I'faith] {Cam}*Aye, faith* % C
+    C 5.3.11
+    - [I'faith] *Aye, faith*, i'faith|
+2578 [they] {Ed}*to* % A
+    A 5.4.4
+    - As those that fear [they] *to* hope, and know [they] *to* fear
+2597 [you] % CO
+    C 5.4.21; O 5.4.21
+    - Keep you your word, O Duke, to give your daughter,
+    - You yours, Orlando, to recieve his daughter,
+    - Keep [you] your word, Phoebe ...
+    - Keep your word, Silvius ...    
+2655 [lie] {Ed}*lied* % C
+    C 5.4.71
+    - If again it was not well cut, he would say I [lie] *lied*
+2656 {F2}[the] % RN
+    R 5.4.80; N 5.4.75
+    - And so to [the] Lie Circumstantial and the Lie Direct
+2704 [holds] *hold* % N
+    N 5.4.121
+    - If truth [holds] *hold* true contents
+2740 {Ed}[them] *him* % N
+    N 5.4.155
+    - And all their lands restored to [them] *him* again
