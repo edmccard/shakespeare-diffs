@@ -158,7 +158,7 @@
     - Joined with an enemy /proclaimed, and from his coffers/
     - Joined with an enemy \proclaimed and fixed\,
     - \And from his coffers\
-837 [with] {Ard}*>wi' th'* % A
+837 [with] {Ard}*wi' th'* % A
     A 2.3.14
     - and play [with] *wi' th'* flowers
 838 [end] {Q}*ends* % A
@@ -419,7 +419,7 @@
 2657 {Ed}[a live] {Ed}*alive* % RF
     R 4.7.126; F 4.7.133
     - if [a live] *alive*
-2657 a live {Ed}->'a lived % N
+2657 a live {Ed} 'a lived % N
     N 4.7.115
     - if [alive] *'a lived*
 2660 ['a lived] {F}*alive* % RF
@@ -438,7 +438,7 @@
 2693 {Ard}[see] % A    
     A 4.7.161
     - that I might [see]
-2724 ['Sblood->God's] {Cam}*God's blood* % C
+2724 ['Sblood] {Cam}*God's blood* % C
     C 4.8.8
     - ['Sblood] *God's blood*, an arrant traitor
 2724 ['Sblood] {Oxf}*God's blood, and his!* % O
