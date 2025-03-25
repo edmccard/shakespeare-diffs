@@ -1,0 +1,522 @@
+197 [then] {Q}*there* % O
+    O 1.2.50
+    - Established [then] *there* this law ...
+219 {Q}[fine] *find* % F
+    F 1.2.77
+    - To [fine] *find* his title with some shows of truth
+224 {Ed}[Ninth] *Tenth* % RF
+    R 1.2.77; F 1.2.82
+    - ... Also King Louis the [Ninth] *Tenth*
+246 [man] {Q}*son* % O
+    O 1.2.99
+    - When the [man] *son* dies, let the inheritance
+    - Descend unto the daughter. ...
+262 [these] {Oxf}*those* % O
+    O 1.2.115
+    - Awake remembrance of [these] *those* valiant dead
+273 [hath] {Ard}*doth* % A
+    A 1.2.126
+    - They know your grace hath cause, and means, and might;
+    - So [hath] *doth* your highness. ...
+285 [road] {Oxf}*raid* % O
+    O 1.2.138
+    - Against the Scot, who will make [road] *raid* upon us
+289 [inland] {Q}*England* % C
+    C 1.2.142
+    - sufficient to defend our [inland] *England* from
+294 [went with his forces into]  {Q}*unmasked his power unto* % O
+    O 1.2.147
+    - Never /went with his forces into/ France
+    - Never \unmasked his power unto\ France
+301 [th' ill neighborhood] {Q}*the bruit thereof* % O
+    O 1.2.154
+    - Hath shook and trembled at /th' ill neighborhood/
+    - Hath shook and trembled at \the bruit thereof\
+310 [her] {F}*their* % C
+    C 1.2.163
+    - And make [her] *their* chronicle as rich with praise
+310 [her] {Q}your % O
+    O 1.2.163
+    - And make [her] *your* chronicle as rich with praise
+313 [ELY] {Ed}*WESTMORLAND* % CA
+    C 1.2.166; A 1.2.166
+    - [ELY] *WESTMORLAND* But there's a saying very old and true
+313 [ELY] {Q}*A LORD* % O
+    O 1.2.166
+    - [ELY] *A LORD* But there's a saying very old and true
+327 [consent] {Ard}*concent* % A
+    A 1.2.181
+    - For government, though high and low and lower,
+    - Put into parts, doth keep in one [consent] *concent*
+330 {Q}*True* % OAN
+    O 1.2.183; A 1.2.183; N 1.2.183
+    - *True.* Therefore doth heaven divide
+344 {Q}[majesty] *majesties* % C
+    C 1.2.197
+    - Who, busied in his [majesty] *majesties*, surveys
+346 [kneading] {Q}*lading* % O
+    O 1.2.199
+    - The civil citizens [kneading] *lading* up the honey    
+355 [come] {Q}*fly* % O
+    O 1.2.208
+    - As many arrows ... [come] *fly* to one mark    
+355 {Q}*several* % A
+    A 1.2.209
+    - ... as many *several* ways meet in one town
+360 [defeat] {Q}*defect* % O
+    O 1.2.213
+    - and be all well borne without [defeat] *defect*
+391 [is] {Q}*are* % CA
+    C 1.2.243; A 1.2.244
+    - As [is] *are* our wretches fettered in our prisons.    
+415 [will] {Q}*shall* % A
+    A 1.2.266
+    - That all the courts of France [will] *shall* be disturbed    
+426 {Oxf}[I] have *I* % OAN
+    O 1.2.276; A 1.2.277; N 1.2.277
+    - For that /I have/ laid by my majesty
+    - For that \have I\ laid by my majesty
+434 [with] {Q}*from* % O
+    O 1.2.284
+    - That shall fly [with] *from* them ...    
+493 [we'll] {Ard}*well* % A
+    A 2.0.31
+    - Linger your patience on, and [we'll] *well* digest
+    - Th' abuse of distance ...
+494 {Oxf}*perforce* % CO
+    C 2.0.32; O 2.0.32
+    - Th' abuse of distance, force *-- perforce --* a play
+494 [force a] {Ard}*and we'll force our* % A
+    A 2.0.32
+    - Th' abuse of distance, [force a] *and we'll force our* play
+503 [till] {Ed}*when* % CA
+    C 2.0.41; A 2.0.41
+    - But [till] *when* the king come forth, and not till then    
+531 {Q}*Good morrow, Ensign Pistol* % O
+    O 2.1.25
+    - *Good morrow, Ensign Pistol.* Here comes Ensign Pistol ...
+532 {Q}[NYM] % F
+    F 2.1.28
+    - BARDOPLH ... Good corporal, be patient here.
+    - [NYM] How now, mine host Pistol?
+534 [tyke] {Oxf}*tick* % O
+    O 2.1.29
+    - Base [tyke] *tick*, call'st thou me host?
+535 [this hand] {Q}*Gads lugs* % RO
+    R 2.1.30; O 2.1.29
+    - Now by [this hand] *Gads lugs*
+541 [hewn now,] {Ed}*drawn! Now* % A
+    A 2.1.37
+    - if he be not /hewn now,/ we shall see wilful adultery
+    - if he be not \drawn! Now\ we shall see wilful adultery
+573 {Q}[thee] defy *thee* % CF
+    C 2.1.58; F 2.1.72
+    - I /thee defy/    
+    - I \defy thee\
+579 {F}*to* % RF
+    R 2.1.79; F 2.1.78
+    - There's enough *too*. Go to.
+582 [your] {Ed}*you,* % OAN
+    O 2.1.79; A 2.1.83; N 2.1.76
+    - you must come to my master, and [your] *you,* hostess
+604 {Q}_speech inserted_ % R
+    R 2.1.205
+    - *NYM I shall have my eight shillings I won of you at betting?*
+604 {Oxf}_speech inserted_ % OAN
+    O 2.1.101; A 2.1.106; N 2.1.98
+    - *NYM I shall have my eight shillings?*
+633 [BEDFORD] {Q}*GLOUCESTER* % O
+    O 2.2.1; O 2.2.6
+642 {Cam}[of] % C
+    C 2.2.13
+    - My lord of Cambridge and my kind lord [of] Masham
+664 [the] {Q}*their* % OA
+    O 2.2.35; A 2.2.35
+    - According to [the] *their* weight and worthiness.
+693 [I] {Q}*me* % A
+    A 2.2.65
+    - And [I] *me*, my royal sovereign.
+703 [have] {Q}*hath* % A
+    A 2.2.75
+    - ... Why, what read you there,
+    - That [have] *hath* so cowarded and chased your blood
+716 {F2}[him] % N
+    N 2.2.85
+    - To furnish [him] wiah all appertenants
+717 {Q}*vile* % O
+    O 2.2.85
+    - Belonging to his honor, and this *vile* man
+733 {Ed}[on] *and* % RF
+    R 2.2.104; F 2.2.111
+    - ... it stands off as gross
+    - As black [on] *and* white, my eye will scarcely see it.
+743 [and] {Ed}*all* % CAF
+    C 2.2.111; A 2.2.114; F 2.2.121
+    - [And] *All* other devils, that suggest by treasons
+797 {Q}*and fixed* % O
+    O 2.2.164
+    - Joined with an enemy /proclaimed, and from his coffers/
+    - Joined with an enemy \proclaimed and fixed\,
+    - \And from his coffers\
+837 [with] {Ard}*>wi' th'* % A
+    A 2.3.14
+    - and play [with] *wi' th'* flowers
+838 [end] {Q}*ends* % A
+    A 2.3.15
+    - and smile upon his fingers' [end] *ends*
+839 {Ed}[babbled] {Anon}*talked* % F
+    F 2.3.17
+    - he [babbled] *talked* of green fields.
+847 {Q}[up'ard] *up-peered* % C
+    C 2.3.21
+    - and so [up'ard] *up-peered* and up'ard
+863 {Q}*-fire* % OAN
+    O 2.3.39; A 2.3.40; N 2.3.35
+    - a black soul burning in hell*-fire*
+891 [Brittany] {Q}*Bourbon* % CO
+    C 2.4.4; O 2.4.4
+    - Therefore the Dukes of Berry and of [Brittany] *Bourbon*,
+922 [noble] {Q}*aged* % O
+    O 2.4.33
+    - How well supplied with [noble] *aged* counsellors
+947 [mountain] {Oxf}*mountant* % CO
+    C 2.4.57; O 2.4.57
+    - Whiles that his [mountain] *mountant* sire, on mountain standing
+969 {Q}[of] % OA
+    O 2.4.75; A 2.4.75
+    - From our brother [of] England?
+992 [hearts] {Ard}*heart* % A
+    A 2.4.98
+    - Even in your [hearts] *heart*, there will he rake for it    
+1000 [Turning] {Q}*Turns he* % O
+    O 2.4.106
+    - [Turning] *Turns he* the widows' tears
+1001 [pining] {F}privy % R
+    R 2.4.107
+    - ... the [pining] *privy* maidens' groans
+1001 [pining] {Ed}prived % CF
+    C 2.4.108; F 2.4.114
+    - ... the [pining] *prived* maidens' groans
+1006 [too] {F}*to* % C
+    C 2.4.113
+    - Unless the Dauphin be in presence here,
+    - To whom expressly I bring greeting [too] *to*
+1009 {Q}[of] % OA
+    O 2.4.114; A 2.4.115
+    - Back to our brother [of] England
+1018 [of] {Q}*for* % OAN
+    O 2.4.123; A 2.4.123; N 2.4.123
+    - He'll call you to so hot an answer [of] *for* it
+1048 {Ed}[Hampton] *Dover* % OF
+    O 3.0.4; F 3.0.4
+    - The well-appointed King at [Hampton] *Dover* pier
+1050 {Ed}[fanning] *feigning* % C
+    C 3.0.6
+    - ... and his brave fleet
+    - With silken streamers the young Phoebus [fanning] *feigning*
+1090 {Ed}[conjure] {Ed}*summon* % F
+    F 3.1.8
+    - Stiffen the sinews, [conjure] *summon* up the blood,
+1100 [noblest] {Ed}*noble* % CA
+    C 3.1.17; A 3.1.17
+    - On, on, you [noblest] *noble* English,
+1137 {Q}*God's plud* ... [breach] *breaches* % O
+    O 3.2.21
+    - *God's plud!* Up to the [breach] *breaches*, you dogs!
+1143 [wins] {Ed}*runs* % OAN
+    O 3.2.28; A 3.2.26; N 3.2.24
+    - ... Your honor [wins] *runs* bad humors!
+1147 [would] {Oxf}*should* % O
+    O 3.2.35
+    - but all they three, though they [would] *should* serve me,
+1188 {Ard}*any is* % A
+    A 3.2.70
+    - he is an ass, as *any is* in the world
+1233 {Oxf}[I owe God a] *ay, or go to* % RF
+    R 3.2.116; F 3.2.117
+    - /I owe God a death/, and I'll pay it
+    - \ay, or go to death\, and I'll pay it
+1307 [great] {Q}*dread* % OAN
+    O 3.3.130; A 3.3.47; N 3.4.47
+    - Therefore, [great] *dread* king
+1405 {Ed}*may* % ON
+    O 3.5.26; N 3.6.36
+    - Poor *may* we call them in their native lords.
+1440 [for] {Oxf}*fore* % O
+    O 3.5.60
+    - And, [for] *fore* achievement, offer us his ransom
+1458 {Q}[life] *live* % RO
+    R 3.6.8; O 3.6.8
+    - and my duty, and my [life] *live*, and my living
+1476 *and* % OF
+    O 3.6.25; F 3.6.25
+    - a soldier firm and sound of heart, *and* of buxom valor
+1480 {Q}[her] *his* % R
+    R 3.6.21
+    - Fortune ... with a muffle afore [her] *his* eyes
+1507 {Q}_two speeches inserted_ % O
+     O 3.6.59
+    - *PISTOL I say the fig within thy bowels and thy dirty maw.*
+    - *LLEWELYN Captain Gower, can you not hear it lighten and thunder?*
+1537 [cam'st] {Oxf}*com'st* % O
+    O 3.6.90
+    - How now, Fluellen, [cam'st] *com'st* thou from the bridge?
+1551 {Ed}[o' fire] *afire* % R
+    R 3.6.103
+    - His face is all ... knobs, and flames [o' fire] *afire*
+1556 *here* % O
+    O 3.6.109
+    - we *here* give express charge that in our marches
+1632 [DAUPHIN] {Q}*BOURBON* % CO
+    C 3.8; O 3.7
+1639 [hairs] {Oxf}*hares* % O
+    O 3.7.14
+    - He bounds from the earth as if his entrails were [hairs] *hares*
+1805 {Ed}[name] *named* % F
+    F 4.0.16
+    - ... the clocks do toll,
+    - And the third hour of drowsy morning [name] *named*.
+1816 [Presented] {Ed}*Presenteth* % AFN
+    A 4.0.27; F 4.0.27; N 4.0.27
+    - [Presented] *Presenteth* them unto the gazing moon
+1847 [Bedford] {Oxf}*Clarence* % O
+    O 4.1.3
+    - Good morrow, brother [Bedford] *Clarence*
+2034 [WILLIAMS] {Oxf}*BATES* % O
+    O 4.1.185
+2095 [of] {Ed}*, O* {Ed} % A
+    A 4.1.242
+    - What is thy soul /of/ adoration?
+    - What is thy soul\, O\ adoration?
+2137 [your] {Cam}*the* % C
+    C 4.1.259
+    - Seek through [your] *the* camp to find you.
+2143 {Ed}[if] {Ed}*ere* {Ed} % CO
+    C 4.1.265; O 4.1.288
+    - ... Take from them now
+    - The sense of reck'ning, [if] *ere* th' opposed numbers
+2143 {Ed}if {Ed}*or* % F
+    F 4.1.302
+    - ... Take from them now
+    - The sense of reck'ning, [if] *or* th' opposed numbers
+2157 [all] {Oxf}*ill* % O
+    O 4.1.301
+    - Since that my penitence comes after [all] *ill*,
+2161 [Ay.] % A
+    A 4.1.302
+    - My brother Gloucester's voice? [Ay.] I know the errand
+2163 {Q}[friends] *friend* % N
+    N 4.1.285
+    - The day, my [friends] *friend*, and all things stay for me.
+2169 [DAUPHIN] {Q}*BOURBON* % CO
+    C 4.2; O 4.2
+2208 [couch] {Cam}*crouch* % C
+    C 4.2.37
+    - That England shall [couch] *crouch* down in fear and yield.
+2218 [hand] {Oxf}*hands* % ON
+    O 4.2.46; N 4.2.45
+    - With torch-staves in their [hand] *hands* ...
+2219 [dropping] {F2}drooping % AFN
+    A 4.2.46; F 4.2.48; N 4.2.46
+    - Lob down their heads, [dropping] *drooping* the hides and hips
+2221 [pale] {Ed}*palled* % AN
+    A 4.2.28; N 4.2.48
+    - And in their [pale] *palled* dull mouths ...    
+2233 {Ed}[guidon] *guard. On* % F
+    F 4.2.61
+    - I stay but for my /guidon./ To the field!
+    - I stay but for my \guard. On\ to the field!
+2241 [BEDFORD] {Q}*CLARENCE*; [WESTMORLAND] {Q}*WARWICK* % O
+     O 4.3
+2270 [yearns] {Oxf}*earns* % OAN
+    O 4.3.26; A 4.3.26; N 4.3.26
+    - It [yearns] *earns* me not if men my garments wear;    
+2288 {Oxf}*t'* % O
+    O 4.3.44
+    - He that shall see this day and live *t'* old age
+2291 _line from Q omitted_ % F
+    F 4.3.50
+    - Then will he strip his sleeve and show his scars,
+    - [And say "These wounds I had on Crispin's day."]
+2364 [or] {Oxf}*as* % O
+    O 4.3.118
+    - They'll be in fresher robes, [or] *as* they will pluck
+    - The gay new coats o'er your French soldiers' heads
+2365 [the] {Q}*your* % O
+    O 4.3.119
+    - The gay new coats o'er [the] *your* French soldiers' heads
+2376 [again] % O
+    O 4.3.129
+    - I fear thou wilt once more come [again] for a ransom.
+2451 [everyone] {Ard}*every vice* % A
+    A 4.4.71
+    - that [everyone] *every vice* may pare his nails with a wooden dagger
+2461 [DAUPHIN] {Q}*BOURBON* % CO
+    C 4.5; O 4.5
+2465 {Q} _omit 2465-2469 and transpose 2478-2480_ % O
+    O 4.5.7
+    - ... Do not run away.
+    - [CONSTABLE Why, all our ranks are broke.]
+    - [DAUPHIN Oh, perdurable shame. Let's stab ourselves.]
+    - [        Be these the wretches that we played at dice for?]
+    - [ORLEANS Is this the king we sent to for his ransom?]
+    - [BOURBON Shame and eternal shame, nothing but shame.]
+    - *ORLEANS We are enough yet living in the field*
+    - *        To smother up the English in our throngs*
+    - *        If any order might be thought upon*
+    - * BOURBON The devil take order. ...*
+2470 [Let us die. In once] {Q}*The devil take order. Once* % O
+    - O 4.5.10
+    - /Let us die! In once more!/ back again!
+    - \The devil take order. Once more,\ back again,
+2470 [In once] {Ed}*instant. Once* % AN
+    A 4.5.11; N 4.5.12
+    - Let us die! /In once more!/ back again!
+    - Let us die \instant. Once more,\ back again,
+2473 [pander] {Q}*leno* % O
+    O 4.5.13
+    - Like a base [pander] *leno*, hold the chamber door
+2475 [contaminated] {Ed}*contaminate* % CF
+    C 4.5.17; F 4.5.18
+    - His fairest daughter is [contaminated] *contaminate*.
+2499 [He] {Q}*and* ... [my] *dear* % O
+    O 4.6.15
+    - /He/ cries aloud, "Tarry, /my/ cousin Suffolk.
+    - \And\ cries aloud, "Tarry, \dear\ cousin Suffolk.
+2519 [mistful] {Ard}*my full* % AF
+    A 4.6.34; F 4.6.35
+    - With [mistful] *my full* eyes
+2519 [mistful] {Cam}*wilful* % C
+    C 4.6.34
+    - With [mistful] *wilful* eyes
+2547 [in] {Oxf}*e'en* % CO
+    C 4.7.17; O 4.7.21
+    - I think it is [in] *e'en* Macedon where Alexander is
+2567 {Q}*an end* % O
+    O 4.7.41
+    - ere it is made *an end* and finished.
+2568 [but] {Cam}*out* % C
+    C 4.7.35
+    - I speak [but] *out* in the figures and comparisons of it.
+2601 [book] {Ed}*look* % A
+    A 4.7.72
+    - To [book] *look* our dead and then to bury them,
+2606 [and their] {Cam}*while the* % C
+    C 4.7.68
+    - [and their] *while the* wounded steeds
+2606 [their] {Oxf}*our* % O
+    O 4.7.76
+    - and [their] *our* wounded steeds
+2606 [their] {Fol}*the* % F
+    F 4.7.81
+    - and [their] *the* wounded steeds
+2621 [Crispianus] {Oxf}*Crispian* % OAN
+    O 4.7.89; A 4.7.90; N 4.7.83
+    - Fought on the day of Crispin [Crispianus] *Crispian*.
+2647 [heralds] {Q}*herald* % AN
+    A 4.7.115; N 4.7.106
+    - Our [heralds] *herald* go with him.
+2657 {Ed}[a live] {Ed}*alive* % RF
+    R 4.7.126; F 4.7.133
+    - if [a live] *alive*
+2657 a live {Ed}->'a lived % N
+    N 4.7.115
+    - if [alive] *'a lived*
+2660 ['a lived] {F}*alive* % RF
+    R 4.7.130; F 4.7.137
+    - if ['a lived] *alive*
+2660 ['a lived] {Cam}*a live* % C
+    C 4.7.116
+    - if ['a lived] *a live*
+2692 {Ard}[but] I would fain *but* % A
+    A 4.7.160
+    - /but I would fain/ see
+    - \I would fain but\ see
+2693 [might] {Oxf}*would* % O
+    O 4.7.161
+    - that I [might] *would* see
+2693 {Ard}[see] % A    
+    A 4.7.161
+    - that I might [see]
+2724 ['Sblood->God's] {Cam}*God's blood* % C
+    C 4.8.8
+    - ['Sblood] *God's blood*, an arrant traitor
+2724 ['Sblood] {Oxf}*God's blood, and his!* % O
+    O 4.8.10
+    - ['Sblood] *God's blood, and his!* An arrant traitor
+2753 {Ard}[will] % A
+    A 4.8.37
+    - bear me testimony, and witness, and [will] avouchment
+2842 {Q}*in* % CO
+    C 4.8.113; O 4.8.121
+    - Yes, *in* my conscience, He did us great good.
+2860 {F2}*with* % CA
+    C 5.0.10; A 5.0.10
+    - Pales in the flood with men, *with* wives, and boys,
+2860 {Oxf}*maids,* % O
+    O 5.0.10
+    - Pales in the flood with men, *maids,* wives, and boys,
+2879 [by] {Oxf}*high-* % O
+    O 5.0.29
+    - As, by a lower but [by] *high-*loving likelihood,
+2879 [by] {Ard}*as* % A
+    A 5.0.29
+    - As, by a lower but [by] *as* loving likelihood,
+2937 [I say] {Q}*By Jesu* % O
+    O 5.1.38
+    - [I say] *By Jesu* I will make him eat some part of my leek,
+2938 {Q}*and four nights* % O
+    O 5.1.39
+    - I will peat his pate four days *and four nights*.
+2966 {Ed}[begun] *began* % C
+    C 5.1.63
+    - an ancient tradition, [begun] *began* upon an
+2976 [Doll] {Q}*Nell* % OAN
+    O 5.1.77; A 5.1.82; N 5.1.72
+    - News have I that my [Doll] *Nell* is dead    
+2976 {Ed}[a] % A
+    A 5.1.83
+    - dead ... of [a] malady of France
+2999 {F2}[England] *Ireland* % F
+    F 5.2.12
+    - So happy be the issue, brother [England] *Ireland*,
+3027 [it] {Fol}*its* % F
+    F 5.2.41
+    - Corrupting in [it] *its* own fertility.
+3037 {Ed}[All] *withal* % RF
+    R 5.2.50; F 5.2.51
+    - Wanting the scythe, [all] *withal* uncorrected, rank,
+3041 [all] {Ed}*as* % CAN
+    C 5.2.54; A 5.2.54; N 5.2.54
+    - And [all] *as* our vineyards
+3048 [defused] {Oxf}*diffused* % O
+    O 5.2.61
+    - To swearing and stern looks, [defused] *diffused* attire,
+3059 [tenors] *tenures* % R
+    R 5.2.72
+    - Whose [tenors] *tenures* and particular effects
+3072 [Clarence] {Cam]*Bedford ... [Warwick] *Westmorland* % C
+    C 5.2.84
+    - And brother /Clarence/, and ... /Warwick/
+    - And brother /Bedford/, and ... /Westmorland/
+3192 [scambling] {Oxf}*scrambling* % O
+    O 5.2.202
+    - I get thee with [scambling] *scrambling*
+3305 {Oxf}*that* % OAN
+    O 5.2.312; A 5.2.312; N 5.2.288
+    - As love is, my lord, before *that* it loves.
+3312 {Ed}[war hath never] *no war hath* % A
+    A 5.2.318
+    - maiden walls that /war hath never/ entered
+    - maiden walls that \no war hath\ entered
+3323 [WESTMORLAND] {Oxf}*WARWICK* % O
+    O 5.2.327
+3324 {F2}*then* % C
+    C 5.2.297
+    - His daughter first, and *then* in sequel, all,
+3324 {Oxf}*so* % ON
+    O 5.2.328; N 5.2.303
+    - His daughter first, and *so* in sequel, all,
+3324 {Ard}*the* % A
+    A 5.2.327
+    - His daughter first, and in *the* sequel, all,
