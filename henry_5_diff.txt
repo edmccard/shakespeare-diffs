@@ -72,7 +72,7 @@
 415 [will] {Q}*shall* % A
     A 1.2.266
     - That all the courts of France [will] *shall* be disturbed    
-426 {Oxf}[I] have *I* % OAN
+426 [I]{Oxf} have *I* % OAN
     O 1.2.276; A 1.2.277; N 1.2.277
     - For that /I have/ laid by my majesty
     - For that \have I\ laid by my majesty
@@ -127,7 +127,7 @@
     - *NYM I shall have my eight shillings?*
 633 [BEDFORD] {Q}*GLOUCESTER* % O
     O 2.2.1; O 2.2.6
-642 {Cam}[of] % C
+642 [of]{Cam} % C
     C 2.2.13
     - My lord of Cambridge and my kind lord [of] Masham
 664 [the] {Q}*their* % OA
@@ -182,7 +182,7 @@
 947 [mountain] {Oxf}*mountant* % CO
     C 2.4.57; O 2.4.57
     - Whiles that his [mountain] *mountant* sire, on mountain standing
-969 {Q}[of] % OA
+969 [of]{Q} % OA
     O 2.4.75; A 2.4.75
     - From our brother [of] England?
 992 [hearts] {Ard}*heart* % A
@@ -201,7 +201,7 @@
     C 2.4.113
     - Unless the Dauphin be in presence here,
     - To whom expressly I bring greeting [too] *to*
-1009 {Q}[of] % OA
+1009 [of]{Q} % OA
     O 2.4.114; A 2.4.115
     - Back to our brother [of] England
 1018 [of] {Q}*for* % OAN
@@ -428,14 +428,14 @@
 2660 ['a lived] {Cam}*a live* % C
     C 4.7.116
     - if ['a lived] *a live*
-2692 {Ard}[but] I would fain *but* % A
+2692 [but]{Ard} I would fain *but* % A
     A 4.7.160
     - /but I would fain/ see
     - \I would fain but\ see
 2693 [might] {Oxf}*would* % O
     O 4.7.161
     - that I [might] *would* see
-2693 {Ard}[see] % A    
+2693 [see]{Ard} % A    
     A 4.7.161
     - that I might [see]
 2724 ['Sblood] {Cam}*God's blood* % C
@@ -444,7 +444,7 @@
 2724 ['Sblood] {Oxf}*God's blood, and his!* % O
     O 4.8.10
     - ['Sblood] *God's blood, and his!* An arrant traitor
-2753 {Ard}[will] % A
+2753 [will]{Ard} % A
     A 4.8.37
     - bear me testimony, and witness, and [will] avouchment
 2842 {Q}*in* % CO
@@ -474,7 +474,7 @@
 2976 [Doll] {Q}*Nell* % OAN
     O 5.1.77; A 5.1.82; N 5.1.72
     - News have I that my [Doll] *Nell* is dead    
-2976 {Ed}[a] % A
+2976 [a]{Ed} % A
     A 5.1.83
     - dead ... of [a] malady of France
 2999 {F2}[England] *Ireland* % F

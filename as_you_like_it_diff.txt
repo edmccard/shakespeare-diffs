@@ -1,7 +1,7 @@
 77 [will] {Ed}*'will'* % C
     C 1.2.62
     - you shall have some part of your [will] *'will'*
-221 [perceiveth] {F2}perceiving ... {Ed}[and] % CA
+221 [perceiveth] {F2}perceiving ... [and]{Ed} % CA
     C 1.2.42; A 1.2.51
     - but Nature's, who /perceiveth/ our natural wits too dull
     - to reason of such /goddesses and hath/ ...
@@ -105,9 +105,9 @@
 1356 [back, friends.] {Ed}*Backfriends!* % C
     C 3.3.133
     - How now? [back, friends] *Backfriends!* -- Shepherd, go off a little.
-1431 {Ed}[forth] % R
+1431 [forth]{Ed} *such* % R
     R 3.2.237
-    - When it drops [forth] such* fruit.
+    - When it drops [forth] *such* fruit.
 1438 {Ed}[thy] *the* % N
     N 3.2.225
     - Cry "holla" to [thy] *the* tongue ...

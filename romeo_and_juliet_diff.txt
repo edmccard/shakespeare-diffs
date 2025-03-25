@@ -52,7 +52,7 @@
 318 {Q1}[and] % N
     N 1.2.71
     - my fair niece Rosaline; [and] Livia; Signor Valentio
-322 {Q1}[?] % N
+322 [?]{Q1} % N
     N 1.2.76
     - Whither[?] to supper?
 322 {Ed} to supper _moved_ % O
@@ -256,7 +256,7 @@
 1560 {Q1}[fire-eyed] *fire and* % N
     N 3.1.122
     - And [fire-eyed] *fire and* fury be my conduct now.
-1591 {Ed}[cousin] % RC
+1591 [cousin]{Ed} % RC
     R 3.1.147; C 3.1.138
     - O Prince, O [cousin], husband, O, the blood is spilled
 1610 {Q1}[agile] {Oxf}*agent* % O
@@ -331,7 +331,7 @@
 2170 [counterfeits] *counterfeit'st* % O
      O 3.5.131
      - Thou [counterfeits] *counterfeit'st* a bark, a sea, a wind,
-2223 {Ed}[hour, tide, time] % RCO
+2223 [hour, tide, time]{Ed} % RCO
     R 3.5.176; C 3.5.176; O 3.5.176
     - God's bread, it makes me mad.
     - /Day, night, hour, tide, time, work, play,/
