@@ -37,7 +37,7 @@
 261 {Q1}_line omitted_ % O
     O 1.2.14
     - And too soon marred are those so early made
-      [She's the hopeful lady of my earth.]
+    - [She's the hopeful lady of my earth.]
     - But woo her, gentle Paris, get her heart,
 276 [fennel] {Q1}*female* % O
     O 1.2.27
@@ -52,7 +52,7 @@
 318 {Q1}[and] % N
     N 1.2.71
     - my fair niece Rosaline; [and] Livia; Signor Valentio
-322 {Q1}[?]
+322 {Q1}[?] % N
     N 1.2.76
     - Whither[?] to supper?
 322 {Ed} to supper _moved_ % O
@@ -61,13 +61,13 @@
     - PETER /To our house./
     - ROMEO Whither?
     - PETER \To supper to our house.\
-326 {Q1}[thee] *you* N
+326 {Q1}[thee] *you* % N
     N 1.2.80
     - Indeed, I should have asked [thee] *you* that before.
 338 {Ed}[fires] *fire* % FN
     F 1.2.96; N 1.2.92
     - Maintains such falsehood, then turn tears to [fires] *fire*,
-391 [holydam]->{Oxf}*halidom* % O
+391 [holydam] {Oxf}*halidom* % O
     O 1.3.45
     - And by my [holydam] *halidom*
 412 {Q1}[honor] *hour* % N
@@ -78,15 +78,15 @@
     C 1.4.6; N 1.4.6
     - Scaring the ladies like a crow-keeper,
     - [Nor no without-book prologue, faintly spoke]
-      [After the prompter, for our entrance]
+    - [After the prompter, for our entrance]
 495 [Or save your reverence] {Q1}*Of this sir-reverence* % R
     R 1.4.42
-    - ,,, We'll draw thee from the mire
+    - ... We'll draw thee from the mire
     - [Or -- save your reverence --] love,
     - *Of this sir-reverence* love,
 495 [Or] {Q1}*Of* % O
     O 1.4.42
-    - ,,, We'll draw thee from the mire
+    - ... We'll draw thee from the mire
     - [Or] *Of* -- save your reverence -- love,
 499 [light] {Ed}*like* % RCO
     R 1.4.45; C 1.4.45; O 1.4.45
@@ -103,7 +103,6 @@
     O 1.4.59
     - [Over] *Athwart* men's noses as they lie asleep
 514 {Ed} _3 lines moved from 520_ % RCA
-    - Over men's noses as they lie asleep.
     R 1.4.59; C 1.4.59; A 1.4.59
     - Over men's noses as they lie asleep.
     - *Her chariot is an empty hazelnut*
@@ -116,10 +115,10 @@
     - Her collars of the /moonshine's watery beams/,
     - Her traces of the \moonshine's watery beams\,
     - Her collars of the \smallest spider web\,
-524 [On] {Q1}*>O'er* % RCO
+524 [On] {Q1}*O'er* % RCO
     R 1.4.72; C 1.4.72; O 1.4.73
     - [On] *O'er* courtiers' knees
-525 {Q1}_line removed_ & O
+525 {Q1}_line removed_ % O
     O 1.4.74
     - On courtiers' knees, that dream on curtsies straight;
      -[O'er lawyers' fingers, who straight dream on fees;]
@@ -149,7 +148,7 @@
 672 {Q2}*did* % N
     N 1.5.206
     - My lips, two blushing pilgrims, *did* ready stand
-725 ['tis] {F1}this
+725 ['tis] {F1}this % F
     F 1.5.156
     - What's ['tis] *this*? What's ['tis'] *this*?
 763 [Abraham] {Ed}Adam % O
@@ -164,12 +163,12 @@
 825 [puffing] *passing* % O
     O 2.1.73
     - the lazy [puffing] *passing* clouds
-835 [or any other part] {Fol} *O, be some other name*
+835 [or any other part] {Fol} *O, be some other name* % F
     F 2.2.44
     - Nor arm nor face, /nor any other part/
     - Belonging to a man. /O be some other name!/
     - Nor arm nor face. \O be some other name\
-      Belonging to a man
+    - Belonging to a man
 899 [coying] {Q1}*cunning* % OA
     O 2.1.143; A 2.2.101
     - ... I'll prove more true
@@ -194,10 +193,10 @@
     - And with a [silken] *silk* thread plucks it back again
 1003 {F2}_4 lines retained_ % A
     A 2.2.188
-    *The grey-eyed morn smiles on the frowning night*
-    *Chequering the eastern clouds wtih streaks of light,*
-    *And darkness, fleckled, like a drunkard reels*
-    *From forth day's pathway made by Titan's wheels.*
+    - *The grey-eyed morn smiles on the frowning night*
+    - *Chequering the eastern clouds wtih streaks of light,*
+    - *And darkness, fleckled, like a drunkard reels*
+    - *From forth day's pathway made by Titan's wheels.*
     - Hence will I to my ghostly sire's close cell,
 1003 {Ed}[sire's] *friar's* % FN
     F 2.2.204; N 2.1.230
@@ -217,7 +216,7 @@
 1172 [switch] {Q1}*swits* % RCA
     R 2.4.69; C 2.4.58; A 2.4.68
     - [Switch] *swits* and spurs, [switch] *swits* and spurs
-1182 *a* very
+1182 *a* very % ON
     O 2.3.75; N 2.3.73
     - Thy wit is *a* very bitter sweeting;
 1292 {F2} *I* warrant % O
@@ -284,7 +283,7 @@
 1684 [weraday] *welladay* % ON
     O 3.2.37; N 3.2.27
     -  Ah, [weraday] *welladay*! He's dead
-1818 [Here] {Q1}*hence*
+1818 [Here] {Q1}*hence* % OA
     O 3.3.15; A 3.3.15
     - [Here] *Hence* from Verona art thou banishèd.
 1843 {Q2}_4 lines in original order_ % N
@@ -302,7 +301,7 @@
 1854 {Q1}[Thou] *Then* % N
     N 3.3.52
     - [Thou] *Then,* fond mad man, hear me a little speak.
-1892 [errand] *errant*
+1892 [errand] *errant* % R
     R 3.3.79
     - you shall know my [errand] *errant*.
 1897 [Where's] {Q1}*Where is* % OA
@@ -332,7 +331,7 @@
 2170 [counterfeits] *counterfeit'st* % O
      O 3.5.131
      - Thou [counterfeits] *counterfeit'st* a bark, a sea, a wind,
-2223 {Hoppe}[hour, tide, time] % RCO
+2223 {Ed}[hour, tide, time] % RCO
     R 3.5.176; C 3.5.176; O 3.5.176
     - God's bread, it makes me mad.
     - /Day, night, hour, tide, time, work, play,/
@@ -346,13 +345,11 @@
 2274 [here] {Ed}*hence* % O
     O 3.5.225
     - As living [here] *hence*, and you no use of him.
-2300 [talked] *talk*
-    - And therefore have I little |talked| of love,
+2300 [talked] *talk* % N
     F 4.1.7; N 4.1.7
-    And therefore have I little [talked] *talk* of love,
+    - And therefore have I little [talked] *talk* of love,
 2340 [care] {Q1}*cure* % FN
-    F 4.1.46
-    N 4.1.45
+    F 4.1.46; N 4.1.45
     - Come weep with me, past hope, past [care] *cure*, past help.
 2380 [shroud] {Ed}*tomb* % O
     O 4.1.85
@@ -404,7 +401,7 @@
     - When griping griefs the heart doth wound
     - [And doleful dumps the mind oppress]
     - Then music with her silver sound
-2708 [Simon Catling] {Oxf}*Matthew Minikin*
+2708 [Simon Catling] {Oxf}*Matthew Minikin* % O
     O 4.4.156
     - What say you, [Simon Catling] *Matthew Minikin*?
 2710 [prates] {Q1}*pretty* % R
@@ -440,6 +437,5 @@
     A 5.3.232; N 5.3.232
     - And she, there dead, [that] *that's* Romeo's faithful wife.
 3174 [raise] *ray* % FN
-    F 5.3.310
-    N 5.3.299
+    F 5.3.310; N 5.3.299
     - For I will [raise] *ray* her statue in pure gold,
