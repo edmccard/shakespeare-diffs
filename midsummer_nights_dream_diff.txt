@@ -1,0 +1,205 @@
+13 {Ed}[New] *Now* % AN
+    A 1.1.10; N 1.1.10
+    - And then the moon, like to a silver bow
+    - [New] *Now* bent in heaven
+35 [man]{F2} % O
+    O 1.1.27
+    - This [man] hath bewitched the bosom of my child.
+39 [feigning] *faining* ... [feigning] *faining* % R
+    R 1.1.31
+    - With [feigning] *faining* voice verses of [feigning] *feigning* love
+39 [feigning] *faining* % A
+    A 1.1.31
+    - With [feigning] *faining* voice verses of feigning love
+149 [else it] {Oxf}*merit* % O
+    O 1.1.139
+    - Or [else it] *merit* stood upon the choice of friends
+169 {Ed}_swapped with next line_ % O
+    O 1.1.159
+    - ... she hath no child
+    - /From Athens is her house remote seven leagues/
+    - /And she respects me as her only son./
+    - \And she respects me as her only son.\
+    - \From Athens is her house remote seven leagues.\
+199 [Your words] {Ed}*Yours would* % RCF
+    R 1.1.187; C 1.1.187; F 1.1.190
+    - Sickness is catching. O, were favor so!
+    - [Your words] *Yours would* I catch
+203 {Ed}[I'd] *I'll* % RA
+    R 1.1.191; A 1.1.191
+    - The rest [I'd] *I'll* give to be to you translated.
+213 [Helena] {Oxf}*Helen* % O
+    O 1.1.200
+    - His folly, [Helena] *Helen*, is none of mine.
+225 [flights] {Oxf}*sleights* % O
+    O 1.1.212
+    - A time that lovers' [flights] *sleights* doth still conceal
+232 [stranger] {Ard}*strange* % A
+    A 1.1.219
+    - To seek new friends and [stranger] *strange* companies
+295 [storms] {Oxf}*stones* % O
+    O 1.2.23
+    - I will move [storms] *stones*. I will condole, in some measure.
+429 {Ed}*make* % O
+    O 2.1.58
+    - But [make] room, fairy: here comes Oberon.
+436 {Ed}[Fairies] *Fairy* % N
+    N 2.1.61
+    - [Fairies] *Fairy*, skip hence
+444 {F}[steep] *step* % CON
+    C 2.1.69; O 2.1.69; N 2.1.69
+    - Come from the farthest [steep] *step* of India,
+476 [here] {Ed}*cheer* % CON
+    C 2.1.101; O 2.1.101; N 2.1.101
+    - The human mortals want their winter [here] *cheer*.
+484 {Ed}[thin] *chin* % N
+    N 2.1.109
+    - And on old Hiem's [thin] *chin* and icy crown
+569 {Ed}[stay] *slay* ... [stayeth] *slayeth* % RCO
+    R 2.1.190; C 2.1.190; O 2.1.190
+    - Where is Lysander and fair Hermia?
+    - The one I'll [stay] *slay*, the other [stayeth] *slayeth* me.
+699 {Ed}[is] *it* % A
+    A 2.2.51
+    - I mean that my heart unto yours [is] *it* knit,
+840 [yourself] {F}*yourselves* % R
+    R 3.1.29
+    - Masters, you ought to consider with [yourself] *yourselves*,
+880 {Ed}[or] *and* % OA
+    O 3.1.64; A 3.1.67
+    - [or] *and* let him hold his fingers thus
+908 [brisky] {Oxf}*bristly* % O
+    O 3.1.89
+    - Most [brisky] *bristly* juvenile
+896 {F}[odors] *odorous* % CN
+    C 3.1.67; N 3.1.72
+    - BOTTOM Thisby, the flowers of odious savors sweet
+    - QUINCE Odors -- [odors] *odorous*!
+    - BOTTOM ... odors savors sweet.
+869 [odors] {Ed}*odorous* {F}[odors] *odorous* % R
+    R 3.1.82
+    - BOTTOM Thisby, the flowers of odious savors sweet
+    - QUINCE [Odors] *Odorous*,  [odors] *odorous*!
+    - BOTTOM ... odors savors sweet.
+939 {F}[I] % C
+    C 3.1.101
+    -I will walk up and down here, and [I] will sing
+1014 {Ed}[of] % A
+    A 3.1.188
+    - I desire you [of] more acquaintance
+1020 [lover's] {Ed}*love's* % O
+    O 3.1.193
+    - Tie up my [lover's] *love's* tongue, bring him silently.
+1169 [princess] {Ard}*impress* % A
+    A 3.2.144
+    - This [princess] *impress* of pure white, this seal of bliss!
+1217 [bare] {Fol}*bear* % F
+    F 3.2.195
+    - The hate I [bare] *bear* thee made me leave thee so
+1228 {Oxf}*quite* % O
+    O 3.2.202
+    - For parting us -- O, is all *quite* forgot?
+1242 [rent] {Oxf}*rend* % O
+    O 3.2.216
+    - And will you [rent] *rend* our ancient love asunder,
+1247 {F}[passionate] % FN
+    F 3.2.225; N 3.2.220
+    - I am amazed at your [passionate] words.
+1264 [Ay,] *I* % AN
+    A 3.2.237; N 3.2.237
+    - [Ay,] *I* do. Persevere, counterfeit sad looks,
+1278 {Ed}[prayers] {Ed}*prays* % R
+    R 3.2.250
+    - Thy threats have no more strength than her weak [prayers] *prays*
+1287 [he'll] {F}*sir,* % C
+    C 3.2.257
+    - No, no, [he'll] *sir,*
+    - Seem to break loose
+1287 [he'll] {Oxf}*sir, yield,* % O
+    O 3.2.258
+    - No, no, [he'll] *sir, yield,*
+    - Seem to break loose
+1312 [of]{Ed} % O
+    O 3,2.280
+    - Therefore be out of hope, of question, [of] doubt.
+1427 [exile] {Ed}*exiled* % O
+    O 3.2.387
+    - They wilfully [exile] *exiled* themselves from light,
+1533 [Cobweb] {Ed}*Peaseblossom* % CO
+    C 4.1.21; O 4.1.23
+    - help Cavalery [Cobweb] *Peaseblossom* to scratch
+1547 {Oxf}*off* % ON
+    O 4.1.35; N 4.1.34
+    - I have a venturous fairy that shall seek
+    - The squirrel's hoard, and fetch thee *off* new nuts.
+1554 {Ed}[all ways] *always* % AN
+    A 4.1.40; N 4.1.39
+    - Fairies, be gone, and be [all ways] *always* away.
+1638 {F2}[Seemed] *Seem* % R
+    R 4.1.138
+    - The skies, the fountains, every region near
+    - [Seemed] *Seem* all one mutual cry
+1649 {Q2}[is] % A
+    A 4.1.127
+    - My lord, this [is] my daughter here asleep,
+1697 {Ed}[saw] *see* % OA
+    O 4.1.171; A 4.1.171
+    - Was I betrothed ere I [saw] *see* Hermia
+1698 [a] {Ed}*in* % OA
+    O 4.1.172; A 4.1.172
+    - But like [a] *in* sickness did I loathe this food;
+1726 {F}[let us] *let's* % RN
+    R 4.1.199; N 4.1.197
+    - And by the way [let us] *let's* recount our dreams.
+1736 {F}[a] patched *a* % N
+    N 4.1.206
+    - man is but [a] patched *a* fool
+1741 [ballad] *ballet* % R
+    R 4.1.215
+    - I will get Peter Quince to write a [ballad] *ballet* of this dream.
+1776 [not] {F}*no* % RO
+    R 4.2.30; O 4.2.27
+    - For if I tell you, I am [not] *no* true Athenian.
+1795 [antique] {F}*antic* % R
+    R 5.1.3
+    - ... I never may believe
+    - These [antique] *antic* fables
+1832 [Philostrate] {F}*Egeus% % O
+    O 5.1.38
+    - Call [Philostrate] *Egeus*
+1841 {F}_Theseus' speech split between Lysander and Theseus_ % O
+    O 5.1.44
+    - [THESEUS] *LYSANDER* The battle with the centaurs ...
+    - *THESEUS* We'll none of that ...
+    - *LYSANDER* The riot of the tipsy bacchanals ...
+    - *THESEUS* That is an old device ...
+    - *LYSANDER* The thrice three muses mourning ...
+    - *THESEUS* That is some satire ...
+    - *LYSANDER* A tedious brief scene ...
+    - *THESEUS* Merry and tragical?
+1856 {Ed}*black* % O
+    O 5.1.59
+    - That is hot ice and wondrous strange *black* snow.
+1856 {Ard}*swarthy* % A
+    A 5.1.59
+    - That is hot ice and wondrous strange *swarthy* snow.
+2010 [moon used] {Ed}*mural* {F}*down* % CN
+    C 5.1.201; N 5.1.204
+    - Now is the [moon used] *mural down* between the two neighbors
+2010 [moon used] {Ed}*wall* {F}*down* % OF
+    O 5.1.206
+    - Now is the [moon used] *wall down* between the two neighbors    
+2010 [moon used] {Ard}*more use* % A
+    A 5.1.206
+    - Now is the [moon used] *more use* between the two neighbors
+2027 [A] {Ard}*No* % A
+    A 5.1.223
+    - Then know that I, as Snug the joiner, am
+    - [A] *No* lion fell, nor else no lion's dam.
+2104 [yet]{F} % O
+    O 5.1.306
+    - he might yet recover and [yet] prove an ass.
+2200 [gait] {Ard}*gate* % A
+    A 5.1.412
+    - Every fairy take his [gait] *gate*
+    - And each several chamber bless
