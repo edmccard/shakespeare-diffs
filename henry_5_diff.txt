@@ -389,6 +389,10 @@
 2519 [mistful] {Cam}*wilful* % C
     C 4.6.34
     - With [mistful] *wilful* eyes
+2523 {Q}_speech added_ % O
+    O 4.6.39
+    - KING HENRY ... Give the word through.
+    - *PISTOL _Coup' la gorge._*
 2547 [in] {Oxf}*e'en* % CO
     C 4.7.17; O 4.7.21
     - I think it is [in] *e'en* Macedon where Alexander is
