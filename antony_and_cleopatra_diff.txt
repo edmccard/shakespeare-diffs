@@ -1,0 +1,158 @@
+63 [whose] {F}*how* % O
+    O 1.1.52
+    - To weep; [whose] *how* every passion fully strives
+83 [charge] {F}*change* % RN
+    R 1.2.4; N 1.2.4
+    - I knew this husband which you say must [charge] *change*
+    - his horns with garlands!
+184 [done with me.] {F}*done. With me* % O
+    O 1.2.90
+    - /Things that are past are done with me. 'Tis thus:/
+    - \Things that are past are done. With me ’tis thus:\
+205 _the "messenger" speeches split among messengers and attendants_ % R
+    R 1.2.114
+    - /SECOND MESSENGER; SECOND MESSENGER; THIRD MESSENGER; THIRD MESSENGER/
+    - \1 ATTENDANT; 2 ATTENDANT; 2 MESSENGER; 2 MESSENGER\
+205 _four distinct messengers_ % C
+    C 1.2.110
+    - /SECOND MESSENGER; SECOND MESSENGER; THIRD MESSENGER; THIRD MESSENGER/
+    -\2 MESSENGER; 3 MESSENGER; 4 MESSENGER; 4 MESSENGER\
+206 [ANTONY] % RC
+    R 1.2.114; C 1.2.110
+    - ANTONY From Sicyon how the news? Speak there!
+    - /2 MESSENGER The man from Sicyon --/
+    - /ANTONY Is there such a one?/
+    - \2 MESSENGER The man from Sicyon -- is there such a one?\
+    - 1 MESSENGER He stays upon your will
+295 [place is] {F}*places* ... [requires] *require* % R
+    R 1.2.195
+    - Say our pleasure
+    - /To such whose place is under us, requires/
+    - \To such whose places under us require,\
+    - Our quick remove from hence.
+478 [deared] {F}*feared* % FN
+    F 1.4.50; N 1.4.44
+    - And the ebbed man, ne'er loved till ne'er worth love,
+    - Comes [deared] *feared* by being lacked.
+592 [man] *man's* % RF
+    R 1.5.61; F 1.5.71
+    - The violence of either thee becomes,
+    - So does it no [man] *man's* else.
+618 [MENAS] *MENECRATES* % OA
+    O 2.1.3; A 2.1.3
+    - [MENAS] *MENECRATES* Know, worthy Pompey
+622 [MENAS] *MENECRATES* % ROA
+    R 2.1.5; O 2.1.5; A 2.1.5
+    - [MENAS] *MENECRATES* We, ignorant of ourselves
+641 [waned] *wanned* % F
+    F 2.1.26
+    - Salt Cleopatra, soften thy [waned] *wanned* lip!
+948 [pour breath] *power breathe* % RC
+    R 2.2.232; C 2.2.242
+    - That she did make defect perfection,
+    - And breathless [pour breath] *power breathe* forth.
+976 *Gone* % O
+    O 2.3.12
+    - SOOTHSAYER Would I had never come from thence, nor you
+    - *Gone* thither.
+    - ANTONY If you can, your reason?
+987 [afeard] {F}*a fear* % R
+    R 2.3.23
+    - thy angel
+    - Becomes [afeard] *a fear*
+1077 [is] {F}*'tis* % RN
+    R 2.5.43; N 2.5.44
+    - Yet if thou say Antony lives, [is] *'tis* well,
+1156 [art] *act* % OA
+    O 2.5.104; A 2.5.103
+    - That [art] *act* not what thou'rt sure of.
+1195 [the]{F} % RN
+    R 2.6.16; N 2.6.16
+    - Made [the] all-honored, honest, Roman Brutus,
+1441 *he* % AN
+    A 2.7.91; N 2.7.91
+    - The third part then *he* is drunk.
+1449 {F}[grow] *grows* % AF
+    A 2.7.98; F 2.7.116
+    - It's monstrous labor when I wash my brain
+    - And it [grow] *grows* fouler.
+1462 {F}[beat] *bear* % RC
+    R 2.7.111; C 2.7.105
+    - The holding every man shall [beat] *bear* as loud
+    - As his strong sides can volley.
+1468 [fats] *vats* % OAF
+    O 2.7.112; A 2.7.114; F 2.7.136
+    - Plumpy Bacchus, with pink eye
+    - In thy [fats] *vats* our cares be drowned
+1568 [bond] {F}*band* % RN
+    R 3.2.26; N 3.2.26
+    - As my thoughts make thee, and as my farthest [bond] *band*
+    - Shall pass on thy approof.
+1607 [wept] {F}*weep* % RN
+    R 3.2.59; N 3.2.59
+    - Believe’t, till I [wept] *weep* too.
+1645 {F}[look'st] *looked'st* % OAF
+    O 3.3.18; A 3.3.18; F 3.3.27
+    - Remember, If e'er thou [look'st] *looked'st* on majesty.
+1764 [he] *were* % N
+    N 3.6.13
+    His sons [he] *were* there proclaimed the kings of kings;
+1864 {F}[If] *Is't* % OAF
+    O 3.7.5; A 3.7.5; F 3.7.6
+    - /If not denounced against us, why should not we/
+    - \Is't not denounced against us? Why should not we\
+1958 [in] {F}*with* % RN
+    R 3.7.80 ; N 3.7.81
+    - With news the time's [in] *with* labor, and throws forth
+1989 [ribaudred] *ribald* N
+    N 3.10.10
+    - Where death is sure. Yon [ribaudred] *ribald* nag of Egypt
+1989 [ribaudred] *riband-red* % O
+    O 3.10.10
+    - Where death is sure. Yon [ribaudred] *riband-red* nag of Egypt
+2077 [thou] *them* % F
+    F 3.11.53
+    - O, whither hast [thou] *them* led me, Egypt?
+2124 [lessens] {F}*lessons* % R
+    R 3.12.13
+    - Requires to live in Egypt, which not granted,
+    - He [lessens] *lessons* his requests, and to thee sues
+2182 [caparisons] {F}*caparisons* % R
+    R 3.13.26
+    - To lay his gay [caparisons] *comparisons * apart
+2244 {F}[Tell him] *till* % OA
+    O 3.13.77; A 3.13.81
+    - Tell him, I am prompt
+    - To lay my crown at's feet, and there to kneel
+    - [Tell him] *till* from his all-obeying breath I hear
+    - The doom of Egypt
+2278 {F}[The] *This* % COF
+    C 3.13.105; O 3.13.103; F 3.13.130
+    - Bring him again. [The] *This* jack of Caesar’s shall
+2353 {F}[sets] *sits* % COF
+    C 3.13.172; O 3.13.171; F 3.13.206
+    - Caesar [sets] *sits* down in Alexandria, where
+2758 [augurs] {F}*auguries* % R
+    R 3.12.4
+    - The [augurs] *auguries*
+    - Say they know not, they cannot tell
+2846 {F}[Caesar's] *Caesar* % R
+    R 4.14.19
+    - she, Eros, has
+    - Pack'd cards with [Caesar's] *Caesar*
+3153 [lance] *launch* % RCA
+    R 5.1.36; C 5.1.36; A 5.1.36
+    - I have followed thee to this; but we do [lance] *launch*
+    - Diseases in our bodies.
+3305 [it was] *'twas* % COF
+    C 5.2.86; O 5.2.86; F 5.2.107
+    - There was no winter in't; an autumn [it was] *twas*
+3305 [autumn] {F}*Antony* % N
+    N 5.2.86
+    - There was no winter in’t. An [autumn] *Antony* it was,
+3316 [nor] *or* % O
+    O 5.2.95
+    - But if there be, [nor] *or* ever were one such,
+3467 [my] {F}*mine* % RF
+    R 5.2.223; F 5.2.271
+    - I'll never see't! for I am sure [my] *mine* nails
