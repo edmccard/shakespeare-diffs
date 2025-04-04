@@ -9,6 +9,10 @@
     O 1.2.90
     - /Things that are past are done with me. 'Tis thus:/
     - \Things that are past are done. With me ’tis thus:\
+200 [winds] *minds* % CA
+    C 1.2.106; A 1.2.113
+    - Oh, then we bring forth weeds
+    - When our quick [winds] *minds* lie still
 204 {F}[how] *ho* % CON
     C 1.2.109; O 1.2.106; N 1.2.112
     - From Sicyon, [ho,] *how* the news? Speak there.
@@ -39,6 +43,9 @@
 312 {F}[I wish] *Iwis* % O
     O 1.3.11
     - Tempt him not so too far. [I wish] *Iwis*, forbear.
+451 {F}[smells] *smell* % N
+    N 1.4.21
+    - With knaves that [smells] *smell* of sweat
 478 [deared] {F}*feared* % FN
     F 1.4.50; N 1.4.44
     - And the ebbed man, ne'er loved till ne'er worth love,
@@ -62,6 +69,9 @@
 735 {F}[your] *the* % O
     O 2.2.49
     - You do mistake [your] *the* business. My brother never
+788 {F}[wars] *war* % N
+    N 2.2.102
+    - Fulvia, To have me out of Egypt, made [wars] *war* here,
 948 [pour breath] *power breathe* % RC
     R 2.2.232; C 2.2.242
     - That she did make defect perfection,
@@ -87,12 +97,21 @@
 1156 [art] *act* % OA
     O 2.5.104; A 2.5.103
     - That [art] *act* not what thou'rt sure of.
-1195 [the]{F} % RN
-    R 2.6.16; N 2.6.16
+1195 [the]{F} % RAN
+    R 2.6.16; A 2.6.16; N 2.6.16
     - Made [the] all-honored, honest, Roman Brutus,
 1241 {F}[There's] *There is* % OA
     O 2.6.53; A 2.6.53
     - [There's] *There is* a change upon you.
+1258 [meanings] *meaning* % N
+    N 2.6.66
+    - I have fair [meanings] *meaning*, sir.
+1262 [of]{F} % N
+    N 2.6.70
+    - No more [of] that. He did so.
+1418 {F}[there] *then* % A
+    A 2.7.73
+    - All [there] *then* is thine.
 1441 *he* % AN
     A 2.7.91; N 2.7.91
     - The third part then *he* is drunk.
@@ -108,13 +127,16 @@
     R 2.7.113
     - <The Song>
     - [BOY] Come, thou monarch of the vine
-1470 *ALL* % CAF
-    C 2.7.121; A 2.7.116; F 2.7.138
-    - *ALL* Cup us till the world go round
 1468 [fats] *vats* % OAF
     O 2.7.112; A 2.7.114; F 2.7.136
     - Plumpy Bacchus, with pink eye
     - In thy [fats] *vats* our cares be drowned
+1470 *ALL* % CAF
+    C 2.7.121; A 2.7.116; F 2.7.138
+    - *ALL* Cup us till the world go round
+1550 {F}[How] *Hoo* % A
+    A 3.2.11
+    - Spake you of Caesar? [How] *Hoo*! The nonpareil!
 1568 [bond] {F}*band* % RN
     R 3.2.26; N 3.2.26
     - As my thoughts make thee, and as my farthest [bond] *band*
@@ -166,9 +188,13 @@
 2163 {F}[mered] *mooted* % O
     O 3.13.10
     - he being the [mered] *mooted* question
-2182 [caparisons] {F}*caparisons* % R
+2182 [caparisons] {F}*comparisons* % R
     R 3.13.26
-    - To lay his gay [caparisons] *comparisons * apart
+    - To lay his gay [caparisons] *comparisons* apart
+2197 [may] they *may* % A
+    A 3.13.40
+    - Against the blown rose /may they/ stop their nose
+    - Against the blown rose \they may\ stop their nose
 2218 {F}[embrace] *embraced* % O
     O 3.13.55
     - He knows that you [embrace] *embraced* not Antony
@@ -179,12 +205,18 @@
     - To lay my crown at's feet, and there to kneel
     - [Tell him] *till* from his all-obeying breath I hear
     - The doom of Egypt
+2265 {F}[this] *the* % A
+    A 3.13.98
+    - Take hence [this] *the* jack and whip him!
 2278 {F}[The] *This* % COF
     C 3.13.105; O 3.13.103; F 3.13.130
     - Bring him again. [The] *This* jack of Caesar’s shall
 2353 {F}[sets] *sits* % COF
     C 3.13.172; O 3.13.171; F 3.13.206
     - Caesar [sets] *sits* down in Alexandria, where
+2638 {F}[They are] *They're* % A
+    A 4.7.11
+    - [They are] *They're* beaten, sir, and our advantage serves
 2670 [My] {F}*Mine* % RF
     R 3.8.18; F 3.8.23
     [My] *Mine* nightingale,
@@ -222,10 +254,19 @@
     - /Look you sad, friends?/
     - \Look you, sad friends,\
     - The gods rebuke me,
+3143 [AGRIPPA] {F}*DOLABELLA % N
+    N 5.1.28
+    - [AGRIPPA] *DOLABELLA* And strange it is
+3147 [AGRIPPA] {F}*DOLABELLA % N
+    N 5.1.31
+    - [AGRIPPA] *DOLABELLA* A rarer spirit never
 3153 [lance] *launch* % RCA
     R 5.1.36; C 5.1.36; A 5.1.36
     - I have followed thee to this; but we do [lance] *launch*
     - Diseases in our bodies.
+3179 [live] *lean* % A
+    A 5.1.59
+    - For Caesar cannot [live] *lean* To be ungentle.
 3298 [the] *o'th* % O
     - and lighted The little O [the] *o'th* earth
 3305 [it was] *'twas* % COF
@@ -237,6 +278,9 @@
 3316 [nor] *or* % O
     O 5.2.95
     - But if there be, [nor] *or* ever were one such,
+3325 [smites] {F}*suits* % N
+    N 5.2.103
+    - a grief that [smites] *suits* My very heart at root
 3467 [my] {F}*mine* % RF
     R 5.2.223; F 5.2.271
     - I'll never see't! for I am sure [my] *mine* nails
