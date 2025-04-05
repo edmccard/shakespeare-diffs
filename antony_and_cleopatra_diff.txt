@@ -1,20 +1,20 @@
-63 [whose] {F}*how* % O
+63 {F2}[whose] {Ed}*how* % O
     O 1.1.52
     - To weep; [whose] *how* every passion fully strives
-83 [charge] {F}*change* % RN
+83 {Ed}[charge] {F}*change* % RN
     R 1.2.4; N 1.2.4
     - I knew this husband which you say must [charge] *change*
     - his horns with garlands!
-184 [done with me.] {F}*done. With me* % O
+184 {F}[done with me.] {Ed}*done. With me* % O
     O 1.2.90
     - /Things that are past are done with me. 'Tis thus:/
     - \Things that are past are done. With me ’tis thus:\
-200 [winds] *minds* % CA
+200 {F}[winds] {Ed}*minds* % CA
     C 1.2.106; A 1.2.113
     - Oh, then we bring forth weeds
     - When our quick [winds] *minds* lie still
 204 {F}[how] *ho* % CON
-    C 1.2.109; O 1.2.106; N 1.2.112
+    C 1.2.109; O 1.2.107; N 1.2.112
     - From Sicyon, [ho,] *how* the news? Speak there.
 205 _the "messenger" speeches split among messengers and attendants_ % R
     R 1.2.114
@@ -27,33 +27,33 @@
 206 {F}[an] *a* % OAN
     O 1.2.107; A 1.2.116; N 1.1.113
     - Is there such [an] *a* one?
-206 [ANTONY] % RC
+206 [ANTONY]{Oxf} % RC
     R 1.2.114; C 1.2.110
     - ANTONY From Sicyon how the news? Speak there!
     - /2 MESSENGER The man from Sicyon --/
     - /ANTONY Is there such a one?/
     - \2 MESSENGER The man from Sicyon -- is there such a one?\
     - 1 MESSENGER He stays upon your will
-295 [place is] {F}*places* ... [requires] *require* % R
+295 {F2}[place is] {F}*places* ... [requires] *require* % R
     R 1.2.195
     - Say our pleasure
     - /To such whose place is under us, requires/
     - \To such whose places under us require,\
     - Our quick remove from hence.
-312 {F}[I wish] *Iwis* % O
+312 {F}[I wish] {Oxf}*Iwis* % O
     O 1.3.11
     - Tempt him not so too far. [I wish] *Iwis*, forbear.
-451 {F}[smells] *smell* % N
+451 {F}[smells] {F2}*smell* % N
     N 1.4.21
     - With knaves that [smells] *smell* of sweat
-478 [deared] {F}*feared* % FN
+478 {Ed}[deared] {F}*feared* % FN
     F 1.4.50; N 1.4.44
     - And the ebbed man, ne'er loved till ne'er worth love,
     - Comes [deared] *feared* by being lacked.
-578 {F}[gaunt] *jaunced* % O
+578 {F}[gaunt] {Oxf}*jaunced* % O
     O 1.5.47
     - And soberly did mount an arm-[gaunt] *jaunced* steed,
-592 [man] *man's* % RF
+592 {F2}[man] {F}*man's* % RF
     R 1.5.61; F 1.5.71
     - The violence of either thee becomes,
     - So does it no [man] *man's* else.
@@ -63,63 +63,67 @@
 622 [MENAS] *MENECRATES* % ROA
     R 2.1.5; O 2.1.5; A 2.1.5
     - [MENAS] *MENECRATES* We, ignorant of ourselves
-641 [waned] *wanned* % F
+641 {Ed}[waned] {F}*wanned* % F
     F 2.1.26
     - Salt Cleopatra, soften thy [waned] *wanned* lip!
-735 {F}[your] *the* % O
+642 {F}[join] {Cam}*joined* % C
+    C 2.1.22
+    - Let witchcraft [join] *joined* with beauty, lust with both,
+735 {F}[your] {Ed}*the* % O
     O 2.2.49
     - You do mistake [your] *the* business. My brother never
-788 {F}[wars] *war* % N
+788 {F}[wars] {Nor}*war* % N
     N 2.2.102
     - Fulvia, To have me out of Egypt, made [wars] *war* here,
-948 [pour breath] *power breathe* % RC
+948 {F}[pour breath] {Ed}*power breathe* % RC
     R 2.2.232; C 2.2.242
     - That she did make defect perfection,
     - And breathless [pour breath] *power breathe* forth.
-972 *OCTAVIA* % RCA
+972 {F2}*OCTAVIA* % RCA
+    R 2.3.8; C 2.3.8; A 2.3.7
     - /ANTONY Good night, dear lady./
     - /       Good night, sir.
     - \ANTONY Good night, dear lady.\
     - \OCTAVIA Good night, sir.\
     - CAESAR Good night.
-976 *Gone* % O
+976 {Oxf}*Gone* % O
     O 2.3.12
     - SOOTHSAYER Would I had never come from thence, nor you
     - *Gone* thither.
     - ANTONY If you can, your reason?
-987 [afeard] {F}*a fear* % R
+987 {Ed}[afeard] {F}*a fear* % R
     R 2.3.23
     - thy angel
     - Becomes [afeard] *a fear*
-1077 [is] {F}*'tis* % RN
+1077 {Ed}[is] {F}*'tis* % RN
     R 2.5.43; N 2.5.44
     - Yet if thou say Antony lives, [is] *'tis* well,
-1156 [art] *act* % OA
+1156 {F}[art] {Oxf}*act* % OA
     O 2.5.104; A 2.5.103
     - That [art] *act* not what thou'rt sure of.
 1195 [the]{F} % RAN
     R 2.6.16; A 2.6.16; N 2.6.16
     - Made [the] all-honored, honest, Roman Brutus,
-1241 {F}[There's] *There is* % OA
+1241 {F}[There's] {Ed}*There is* % OA
     O 2.6.53; A 2.6.53
     - [There's] *There is* a change upon you.
-1258 [meanings] *meaning* % N
+1258 {Ed}[meanings] {F}*meaning* % N
     N 2.6.66
     - I have fair [meanings] *meaning*, sir.
 1262 [of]{F} % N
     N 2.6.70
     - No more [of] that. He did so.
-1418 {F}[there] *then* % A
+1418 {F}[there] {Ed}*then* % A
     A 2.7.73
     - All [there] *then* is thine.
-1441 *he* % AN
+1441 {F}*he* % AN
     A 2.7.91; N 2.7.91
     - The third part then *he* is drunk.
-1449 {F}[grow] *grows* % AF
+1449 {F}[grow] {F2}*grows* % AF
     A 2.7.98; F 2.7.116
     - It's monstrous labor when I wash my brain
     - And it [grow] *grows* fouler.
-1462 {F}[beat] *bear* % RC
+1462 {F}[beat] {Ed}*bear* % RC
     R 2.7.111; C 2.7.105
     - The holding every man shall [beat] *bear* as loud
     - As his strong sides can volley.
@@ -131,75 +135,71 @@
     O 2.7.112; A 2.7.114; F 2.7.136
     - Plumpy Bacchus, with pink eye
     - In thy [fats] *vats* our cares be drowned
-1470 *ALL* % CAF
+1470 {Ed}*ALL* % CAF
     C 2.7.121; A 2.7.116; F 2.7.138
     - *ALL* Cup us till the world go round
-1550 {F}[How] *Hoo* % A
+1550 [How] *Hoo* % A
     A 3.2.11
     - Spake you of Caesar? [How] *Hoo*! The nonpareil!
-1568 [bond] {F}*band* % RN
-    R 3.2.26; N 3.2.26
-    - As my thoughts make thee, and as my farthest [bond] *band*
-    - Shall pass on thy approof.
 1595 {F}[the] % OA
     O 3.2.49; A 3.2.48
     - That stands upon the swell at [the] full of tide
-1607 [wept] {F}*weep* % RN
+1607 {Ed}[wept] {F}*weep* % RN
     R 3.2.59; N 3.2.59
     - Believe’t, till I [wept] *weep* too.
-1645 {F}[look'st] *looked'st* % OAF
+1645 {F}[look'st] {Ed}*looked'st* % OAF
     O 3.3.18; A 3.3.18; F 3.3.27
     - Remember, If e'er thou [look'st] *looked'st* on majesty.
-1764 [he] *were* % N
+1764 [he] {Ed}*were* % N
     N 3.6.13
-    His sons [he] *were* there proclaimed the kings of kings;
-1817 {F}[abstract] *obstruct* % O
+    - His sons [he] *were* there proclaimed the kings of kings;
+1817 {F}[abstract] {Ed}*obstruct* % O
     O 3.6.61
     - Being an [abstract] *obstruct* 'tween his lust and him.
-1846 {F}[his] *their*
+1846 {F}[his] {Ed}*their* % O
     O 3.6.88
     - and the high gods,
     - To do you justice, makes [his] *their* ministers
-1864 {F}[If] *Is't* % OAF
+1864 {F}[If] {Ed}*Is't* % OAF
     O 3.7.5; A 3.7.5; F 3.7.6
     - /If not denounced against us, why should not we/
     - \Is't not denounced against us? Why should not we\
-1958 [in] {F}*with* % RN
+1958 {Ed}[in] {F}*with* % RN
     R 3.7.80 ; N 3.7.81
     - With news the time's [in] *with* labor, and throws forth
-1989 [ribaudred] *ribald* N
+1989 {F}[ribaudred] {Ed}*ribald* % N
     N 3.10.10
     - Where death is sure. Yon [ribaudred] *ribald* nag of Egypt
-1989 [ribaudred] *riband-red* % O
+1989 {F}[ribaudred] {Oxf}*riband-red* % O
     O 3.10.10
     - Where death is sure. Yon [ribaudred] *riband-red* nag of Egypt
 2077 [thou] *them* % F
     F 3.11.53
     - O, whither hast [thou] *them* led me, Egypt?
-2124 [lessens] {F}*lessons* % R
+2124 {F2}[lessens] {F}*lessons* % R
     R 3.12.13
     - Requires to live in Egypt, which not granted,
     - He [lessens] *lessons* his requests, and to thee sues
-2142 {F}[from] *as* % O
+2142 {F}[from] {Ed}*as* % O
     3.12.29
     - Promise, and in our name, what she requires.
     - /Add more -- from thine invention -- offers/
     -\Add more, as thine invention offers\
-2163 {F}[mered] *mooted* % O
+2163 {F}[mered] {Oxf}*mooted* % O
     O 3.13.10
     - he being the [mered] *mooted* question
-2182 [caparisons] {F}*comparisons* % R
+2182 {Ed}[caparisons] {F}*comparisons* % R
     R 3.13.26
     - To lay his gay [caparisons] *comparisons* apart
 2197 [may] they *may* % A
     A 3.13.40
     - Against the blown rose /may they/ stop their nose
     - Against the blown rose \they may\ stop their nose
-2218 {F}[embrace] *embraced* % O
+2218 {F}[embrace] {Ed}*embraced* % O
     O 3.13.55
     - He knows that you [embrace] *embraced* not Antony
     - As you did love, but as you feared him.
-2244 {F}[Tell him] *till* % OA
+2244 {F}[Tell him] {Ed}*till* % OA
     O 3.13.77; A 3.13.81
     - Tell him, I am prompt
     - To lay my crown at's feet, and there to kneel
@@ -208,83 +208,84 @@
 2265 {F}[this] *the* % A
     A 3.13.98
     - Take hence [this] *the* jack and whip him!
-2278 {F}[The] *This* % COF
+2278 {F}[The] {Ed}*This* % COF
     C 3.13.105; O 3.13.103; F 3.13.130
     - Bring him again. [The] *This* jack of Caesar’s shall
-2353 {F}[sets] *sits* % COF
+2353 [sets] *sits* % COF
     C 3.13.172; O 3.13.171; F 3.13.206
     - Caesar [sets] *sits* down in Alexandria, where
 2638 {F}[They are] *They're* % A
     A 4.7.11
     - [They are] *They're* beaten, sir, and our advantage serves
-2670 [My] {F}*Mine* % RF
-    R 3.8.18; F 3.8.23
-    [My] *Mine* nightingale,
-2758 [augurs] {F}*auguries* % R
-    R 3.12.4
+2670 {F2}[My] {F}*Mine* % RF
+    R 4.8.18; F 4.8.23
+    - [My] *Mine* nightingale,
+2758 {Ed}[augurs] {F}*auguries* % R
+    R 4.12.4
     - The [augurs] *auguries*
     - Say they know not, they cannot tell
-2836 [dislimns] *distains* % O
+2836 {Ed}[dislimns] {Oxf}*distains* % O
     O 4.15.10
     - The rack [dislimns] *distains*, and makes it indistinct
-2846 {F}[Caesar's] *Caesar* % R
+2846 {F}[Caesar's] {Ed}*Caesar* % R
     R 4.14.19
     - she, Eros, has
     - Pack'd cards with [Caesar's] *Caesar*
 2977 {F}[you] % O
     O 4.15.122
     - Would not be purged, she sent [you] word she was dead;
-3028 {F}[Not] *Nor* % O
+3028 {F}[Not] {Oxf?}*Nor* % O
     O 4.16.24
     - [Not] *Nor* th’imperious show
     - Of the full-fortuned Caesar ever shall
-3112 *but* % O
+3112 {Ed}*but* % O
     O 5.1.2
     - Being so frustrate, tell him, he *but* mocks
-3127 {F}[round] *rived* % O
+3127 {F}[round] {Oxf}*rived* % O
     O 5.1.15
     - The breaking of so great a thing should make
     - A greater crack. The [round] *rivèd* world
     - Should have shook lions into civil streets,
-3130 {F}[the] *that* % O
+3130 {F}[the] {Ed}*that* % O
     O 5.1.18
     - in [the] *that* name lay
-3140 [Look you sad, friends?] *Look you, sad friends,* % OA
+3140 {Ed}[Look you sad, friends?] {F}*Look you, sad friends,* % OA
     O 5.1.26; A 5.1.26
     - /Look you sad, friends?/
     - \Look you, sad friends,\
     - The gods rebuke me,
-3143 [AGRIPPA] {F}*DOLABELLA % N
+3143 {Ed}[AGRIPPA] {F}*DOLABELLA % N
     N 5.1.28
     - [AGRIPPA] *DOLABELLA* And strange it is
-3147 [AGRIPPA] {F}*DOLABELLA % N
+3147 {Ed}[AGRIPPA] {F}*DOLABELLA % N
     N 5.1.31
     - [AGRIPPA] *DOLABELLA* A rarer spirit never
-3153 [lance] *launch* % RCA
+3153 {Ed}[lance] {F}*launch* % RCA
     R 5.1.36; C 5.1.36; A 5.1.36
     - I have followed thee to this; but we do [lance] *launch*
     - Diseases in our bodies.
-3179 [live] *lean* % A
+3179 [live] {Ard}*lean* % A
     A 5.1.59
     - For Caesar cannot [live] *lean* To be ungentle.
-3298 [the] *o'th* % O
+3298 [the] {Ed}*o'th* % O
+    O 5.2.80
     - and lighted The little O [the] *o'th* earth
-3305 [it was] *'twas* % COF
+3305 {F}[it was] {Ed}*'twas* % COF
     C 5.2.86; O 5.2.86; F 5.2.107
     - There was no winter in't; an autumn [it was] *twas*
-3305 [autumn] {F}*Antony* % N
+3305 {Ed}[autumn] {F}*Antony* % N
     N 5.2.86
     - There was no winter in’t. An [autumn] *Antony* it was,
-3316 [nor] *or* % O
+3316 {F}[nor] {F3}*or* % O
     O 5.2.95
     - But if there be, [nor] *or* ever were one such,
-3325 [smites] {F}*suits* % N
+3325 {Ed}[smites] {F}*suits* % N
     N 5.2.103
     - a grief that [smites] *suits* My very heart at root
-3467 [my] {F}*mine* % RF
+3467 {F2}[my] {F}*mine* % RF
     R 5.2.223; F 5.2.271
     - I'll never see't! for I am sure [my] *mine* nails
-3568 {F}[wild] *vile* % ROA
+3568 {F}[wild] {Ed}*vile* % ROA
     R 5.2.314; O 5.2.308; A 5.2.312
     - CLEOPATRA What should I stay --
     - CHARMIAN In this [wild] *vile* world?
