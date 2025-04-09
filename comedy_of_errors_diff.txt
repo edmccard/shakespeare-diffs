@@ -1,0 +1,199 @@
+21 {F}*any* % RN
+    R 1.1.17; N 1.1.17
+    - /Nay more, if any born at Ephesus/
+    - /Be seen at Syracusian marts and fairs/
+    - \Nay more, if any born at Ephesus be seen\
+    - \At any Syracusian marts and fairs\
+26 [to]{F2} % OA
+    O 1.1.22; A 1.1.22
+    - To quit the penalty and [to] ransom him.
+42 {Oxf}*happy* % O
+    O 1.1.38
+    - Unto a woman happy but for me,
+    - And by me *happy*, had not our hap been bad.
+58 mean{Oxf}*-born* % O
+    O 1.1.54
+    - A mean*-born* woman was delivered
+58 [mean] {Ed}*meaner* % A
+    A 1.1.54
+    - A [mean] *meaner* woman was delivered
+146 {Ed}_two lines swapped_ % O
+    O 1.1.143
+    - /Now trust me, were it not against our laws,/
+    - /Against my crown, my oath, my dignity,/
+    - /Which princes, would they, may not disannul/
+    - \Now trust me, were it not against our laws,\
+    - \Which princes, would they, may not disannul/
+    - \Against my crown, my oath, my dignity,/
+154 {Ed}[health] {Ard}*hope* % A
+    A 1.1.151
+    - To seek thy [health] *hope* by beneficial help.
+154 {Ed}[health] {Ed}*life* % F
+    F 1.1.151
+    - To seek thy [health] *life* by beneficial help.
+204 {F}*ah* % R
+    R 1.2.40
+    - In quest of them (unhappy), *ah,* lose myself.
+230 [scour] {Ed}*score* % RA
+    R 1.2.65; A 1.2.65
+    - For she will [scour] *score* your fault upon my pate:
+268 [liberties] {Ed}*libertines* % O
+    O 1.2.102
+    - And many suchlike [liberties] *libertines* of sin.
+282 [master] {Oxf}*mistress* % O
+    O 2.1.8
+    - Time is their [master] *mistress*, and when they see time
+324 [Ay] *I* % ON
+    O 2.1.48; N 2.1.48
+    - [Ay,] *I?* Ay, he told his mind upon mine ear.
+341 {Ed}*home* % OA
+    O 2.1.63; A 2.1.63
+    - "Will you come *home*?" quoth I, "My gold," quoth he.
+345 [not] thy mistress {Oxf}*not* % O
+    O 2.1.67
+    - /I know not thy mistress/
+    - \I know thy mistress not\
+383 [o' love] {F2}*alone* % A
+    A 2.1.106
+    - Would that alone, [o' love] *alone* he would detain
+386 [his] {Oxf}*her* % O
+    O 2.1.109
+    - I see the jewel best enamellèd
+    - Will lose [his] *her* beauty.
+388 {Ed}[Wear] {F}*Where* % R
+    R 2.1.112
+    - yet the gold bides still
+    - That others touch and, often touching, will
+    - [Wear] *Where* gold; and no man that hath a name
+388 {Ed}[and] {F}*yet* % F
+    F 2.1.116
+    - yet the gold bides still
+    - That others touch and, often touching, will
+    - Wear gold; [and] *yet* no man that hath a name
+389 {F}[By] {Ed}*But* % C
+    C 2.1.111
+    - [By] *But* falsehood and corruption doth it shame.
+531 {Ed}[off] {F}*of* % N
+    N 2.2.137
+    - And tear the stained skin [off] *of* my harlot brow,
+541 [distained] {Ed}*unstained* % CO
+    C 2.2.137; O 2.2.149
+    - I live [distained] *unstained*, thou undishonoured.
+585 [owls] {Ed}*oafs* % CO
+    C 2.2.181; O 2.2.193
+    - We talk with goblins, [owls] *oafs*, and sprites.
+589 [Dromio] {Riv}*drumble* % R
+    R 2.2.194
+    - Dromio, thou [Dromio] *drumble*, thou snail, thou slug, thou sot!
+589 [Dromio] {Ed}*drone* % ON
+    O 2.2.197; N 2.2.195
+    - Dromio, thou [Dromio] *drone*, thou snail, thou slug, thou sot!
+590 {Ed}*not* I [not] % RO
+    R 2.2.195; O 2.2.198
+    - /I am transformed, master, am I not?/
+    - \I am transformed, master, am not I?\
+677 [face] {Ard}*place* ... [or] *and* % A
+    A 3.1.47
+    - Thou wouldst have changed thy [face] *place* for a name,
+    - [or] *and* thy name for an ass.
+677 [face] {Oxf}*pate* for [a name] {Ed}*an aim* % O
+    O 3.1.47
+    - Thou wouldst have changed thy [face] *pate* for [a name] *an aim*
+679 _(subsq)_ [LUCE] {Oxf}*NELL* ... [Luce] {Oxf}*Nell*
+    O 3.1.48
+    - _Luce is changed to Nell in SPP, SDD, and dialogue_
+693 [hope] {Ed}*trow* % N
+    N 3.1.53
+    - You’ll let us in, I [hope] *trow*?
+725 [here]{Cam} % CA
+    C 3.1.71; A 3.1.71
+    - Your cake [here] is warm within; you stand here in the cold.
+767 {F2}*once* % O
+    O 3.1.107
+    - For ever housed where *once* it gets possession.
+769 [mirth] {Ard}*wrath* % A
+    A 3.1.108
+    - And in despite of [mirth] *wrath* mean to be merry:
+836 [thee] {Ed}*them* % ROF
+    R 3.2.49; O 3.2.49; F 3.2.51
+    - And as a bed I'll take [thee] *them*, and there lie,
+844 {Ed}[where] {F}*when* % RF
+    R 3.2.57; F 3.2.59
+    -  Gaze [where] *when* you should, and that will clear your sight.
+912 [the] {Cam}*her* % COA
+    C 3.2.108; O 3.2.124; A 3.2.122
+    - hard in the palm of [the] *her* hand.
+915 [heir] {F2}*hair* % AN
+    A 3.2.125; N 3.2.126
+    - armed and reverted, making war against her [heir] *hair*.
+1042 [me] by {Ed}*me* % F
+    F 4.1.56
+    - Either send the chain, or send [me] by *me* some token.
+1076 {F}[sir] % CO
+    C 4.1.87; O 4.1.87
+    - And then [sir] she bears away. Our freightage, sir,
+1136 [Sweet] {Ed}*Sweat* % RC
+    R 4.2.29; C 4.2.29
+    - Here, go: the desk, the purse! [Sweet] *Sweat* now, make haste!
+1155 [is] {Ed}*'a's* % R
+    R 4.2.45
+    - But [is] *'a's* in a suit of buff which 'rested him
+1197 {Oxf}*redemption from* % O
+    O 4.3.13
+    - What, have you got *redemption from* the picture of old Adam
+    - new apparelled?
+1224 [distract] {Oxf}*distraught* % O
+    O 4.3.42
+    - The fellow is [distract] *distraught*, and so am I,
+1243 [or] {Ed}*and* % O
+    O 4.3.61
+    - Master, if you do, expect spoon-meat,
+    - [or] *and* bespeak a long spoon.
+1248 [then] {F4}*thou* % O
+    O 4.3.65
+    - Avoid, [then,] *thou* fiend!
+1326 [to] {F}*the* % RF
+    R 4.4.42; F 4.4.46
+    - or rather, [to] *the* prophesy like the parrot,
+1392 [these] {Ed}*those* % OA
+    O 4.4.105
+    - But with these nails I'll pluck out [these] *those* false eyes,
+1405 [this] {Ed}*his* % CO
+    C 4.4.107; O 4.4.114
+    - Go, bind [this] *his* man, for he is frantic too.
+1513 {F2}*much* % O
+    O 5.1.46
+    - And much *much* different from the man he was;
+1516 [of] {F2}*at* % O
+    O 5.1.49
+    - Hath he not lost much wealth by wreck [of] *at* sea?
+1535 {Ed}*at* % CA
+    C 5.1.66; A 5.1.66
+    - In company I often glanced *at* it;
+1801 [boy] {Ed}*bay* % O
+    O 5.1.322
+    - But seven years since, in Syracusa [,boy] *bay*,
+    - Thou know'st we parted.
+1832 {Ed}_Duke's speech split and moved below_ % R
+    R 5.1.347
+    - And speak unto the same Emilia!
+    - /DUKE Why, here begins his morning story right/
+    - / ... /
+    - / Which accidentally are met together./
+    - EGEON If I dream not, thou art Emilia.
+    - \ ... \
+    - \ABBESS By men of Epidamium he and I,\
+    - \ ... \
+    - \ I to this fortune that you see me in.\
+    - \DUKE Why, here begins his morning story right/
+1835 [her] {Ed}*his* % OA
+    O 5.1.351; A 5.1.349
+    - Besides [her] *his* urging of her wreck at sea.
+1895 [go] {Ed}*joy* % O
+    O 5.1.408
+    - Go to a gossips' feast, and [go] *joy* with me.
+1914 [senior] {F}*signior* % F
+    F 5.1.436
+    - DROMIO S. Not I, sir, you are my elder.
+    - DROMIO E. That's a question; how shall we try it?
+    - DROMIO S. We'll draw cuts for the [senior] *signior*

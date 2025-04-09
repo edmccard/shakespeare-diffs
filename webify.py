@@ -10,7 +10,7 @@ class Diff:
         self.lines = []
 
         _, lno, text = re.split(r'^([0-9]+) ', line)
-        print(lno)
+        # print(lno)
         self.summary = Summary(lno, text)
 
         line = next(lines, '')

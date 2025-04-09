@@ -254,10 +254,10 @@
     - /Look you sad, friends?/
     - \Look you, sad friends,\
     - The gods rebuke me,
-3143 {Ed}[AGRIPPA] {F}*DOLABELLA % N
+3143 {Ed}[AGRIPPA] {F}*DOLABELLA* % N
     N 5.1.28
     - [AGRIPPA] *DOLABELLA* And strange it is
-3147 {Ed}[AGRIPPA] {F}*DOLABELLA % N
+3147 {Ed}[AGRIPPA] {F}*DOLABELLA* % N
     N 5.1.31
     - [AGRIPPA] *DOLABELLA* A rarer spirit never
 3153 {Ed}[lance] {F}*launch* % RCA
