@@ -99,7 +99,7 @@
 677 [face] {Oxf}*pate* for [a name] {Ed}*an aim* % O
     O 3.1.47
     - Thou wouldst have changed thy [face] *pate* for [a name] *an aim*
-679 _(subsq)_ [LUCE] {Oxf}*NELL* ... [Luce] {Oxf}*Nell*
+679 _(subsq)_ [LUCE] {Oxf}*NELL* ... [Luce] {Oxf}*Nell* % O
     O 3.1.48
     - _Luce is changed to Nell in SPP, SDD, and dialogue_
 693 [hope] {Ed}*trow* % N
