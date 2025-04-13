@@ -1,0 +1,241 @@
+48 [succeed] *succeeded* % O
+    O 1.1.40
+    - Whom worthily you would have now [succeed] *succeeded*,
+95 [boughs] *bows* % O
+    O 1.1.74
+    - Cometh Andronicus, bound with laurel [boughs] *bows*,
+164 [the] *her* % O
+    O 1.1.141
+    - To quit [the] *her* bloody wrongs upon her foes.
+316 _five lines omitted_ % O
+    O 1.1.284
+    - TITUS Traitors, avaunt! Where is the emperor’s guard?
+    - [Treason, my lord – Lavinia is surprised.]
+    - [SATURNINUS Surprised? By whom?]
+    - [BASSIANUS By him that justly may]
+    - [Bear his betrothed from all the world away.]
+    - MUTIUS Brothers, help to convey her hence away,
+    - [TITUS Follow, my lord, and I'll soon bring her back.]
+    - MUTIUS My lord, you pass not here.
+369 *to* % F
+    F 1.1.340
+    - Ascend, fair queen, *to* Pantheon. -- Lords, accompany
+398 [QUINTUS AND] % RF
+    R 1.1.358; F 1.1.364
+    - [QUINTUS AND] MARTIUS And shall, or him we will accompany.
+401 [MARTIUS] *QUINTUS* % OA
+    O 1.1.357; A 1.1.365
+    - [MARTIUS] *QUINTUS* He that would vouch it in any place but here
+409 [QUINTUS] *LUCIUS* % C
+    C 1.1.368
+    - [QUINTUS] *LUCIUS* He is not with himself; let us withdraw.
+409 [QUINTUS] *MARTIUS* % OA
+    O 1.1.365; A 1.1.373
+    - [QUINTUS] *MARTIUS* He is not with himself; let us withdraw.
+410 [MARTIUS] *QUINTUS* % OA
+    O 1.1.366; A 1.1.374
+    - [MARTIUS] *QUINTUS* Not I, till Mutius' bones be buried.
+412 [MARTIUS] *QUINTUS* % OA
+    O 1.1.268; A 1.1.376
+    - [MARTIUS] *QUINTUS* Father, and in that name doth nature speak
+441 [beholding] *beholden* % OAN
+    O 1.1.393; A 1.1.401; N 1.1.399
+    - Is she not then [beholding] *beholden* to the man
+442 _line from F omitted_ % N
+    N 1.1.400
+    - That brought her for this high good turn so far?
+    - [Yes, and will nobly him remunerate.]
+442 *MARCUS* % OA
+    O 1.1.395; A 1.1.402
+    - *MARCUS* Yes, and will nobly him remunerate.
+542 [Stand up.] % A
+    A 1.1.490
+    - I do remit these young men's heinous faults.
+    - [Stand up.]
+    - Lavinia, though you left me like a churl,
+685 [withal] *with all* % O
+    O 2.1.123
+    - Will we acquaint [withal] *with all* what we intend,
+701 [morn] *moon* % FN
+    F 2.2.1; N 2.2.1
+    - The hunt is up, the [morn] *moon* is bright and gray
+730 [runs] *run* % O
+    - And I have horse will follow where the game
+    - /Makes way and runs like swallows o'er the plain./
+    - \Makes way, and run like swallows o'er the plain.\
+748 [snakes] *snake* % RN
+    R 2.3.13; N 2.3.13
+    - The [snakes] *snake* lies rolled in the cheerful sun
+808 [try] % OAF
+    O 2.2.69; A 2.2.69; F 2.3.69
+    - Are singled forth to try [thy] experiments.
+811 [swarthy] *swart* % ROA
+    R 2.3.72; O 2.3.72; A 2.2.72
+    - Believe me, Queen, your [swarthy] *swart* Cimmerian
+824 [notice] *note* % OA
+    O 2.3.85; A 2.2.85
+    - The king my brother shall have [notice] *note* of this.
+827 [I] have *I* % O
+    O 2.3.88
+    - /Why, I have patience to endure all this./
+    - \Why have I patience to endure all this?\
+856 [henceforth] *henceforward* % O
+    O 2.3.115
+    - Or be ye not [henceforth] *henceforward* called my children.
+868 [painted] *quaint* % OA
+    O 2.3.126; A 2.2.126
+    - And with that [painted] *quaint* hope braves your mightiness,
+887 [suck'st] *sucked'st* % O
+    O 2.3.144
+    - The milk thou [suck'st] *sucked'st* from her did turn to marble,
+874 [we] *you* % COF
+    C 2.3.131; O 2.3.131; F 2.3.131
+    - But when you have the honey [we] *you* desire,
+1016 [grieved] *gripped* % O
+    O 2.3.260
+    - Here, Tamora, though [grieved] *gripped* with killing grief.
+1016 [grieved] *gride* % A
+    A 2.2.260
+    - Here, Tamora, though [grieved] *gride* with killing grief.
+1050 [faults] *fault* % ROA
+    R 2.3.291; O 2.3.291; A 2.2.291
+    - Accursed, if the [faults] *fault* be prov'd in them
+1111 [Philomela] *Philomel* % O
+    O 2.4.38
+    - Fair [Philomela] *Philomel*, why she but lost her tongue
+1147 *two* % OA
+    O 3.1.12; A 3.1.12
+    - For these *two*, Tribunes, in the dust I write
+1152 [ruins] *urns* % R
+    R 3.1.17
+    - That shall distill from these two ancient [ruins] *urns*,
+1171 _line omitted_ % O
+    O 3.1.36
+    - [And bootless unto them.]
+1364 [sorrow] *sorrows* % OA
+    O 3.1.215; A 3.1.217
+    - Is not my [sorrow] *sorrows* deep, having no bottom?
+    - Then be my passions bottomless with them.
+1373 [flow] *blow* % ROA
+    R 3.1.225; O 3.1.224; 3.1.226
+    - I am the sea; hark how her sighs doth [flow] *blow*!
+1409 [Rent] *Rend* % OA
+    O 3.1.259; A 3.1.261
+    - [Rent] *Rend* off thy silver hair, thy other hand
+1430 [in these arms] % ROA
+    R 3.1.281; O 3.1.280; A 3.1.282
+    - And, Lavinia, thou shalt be employ'd [in these arms];
+1431 [thy teeth] *thine arms* % O
+    O 3.1.281
+    - Bear thou my hand, sweet wench, between [thy teeth] *thine arms*.
+1490 [mashed] *meshed* % R
+    R 3.2.38
+    - tears brewed with her sorrow, [mashed] *meshed* upon her face
+1491 [complainer] *complainant* % R
+    R 3.2.39
+    - Speechless [complainer] *complainant*, I will learn thy thought;
+1513 [and mother] *brother* % O
+    O 3.2.60
+    - ‘But'? How if that fly had a father, [and mother] *brother*?
+1515 [doings] *dirges* % O
+    O 3.2.62
+    - And buzz lamenting [doings] *dirges* in the air!
+1553 *MARCUS* % R
+    R 4.1.10
+    - Fear her not, Lucius, somewhat doth she mean.
+    - *MARCUS* See, Lucius, see, how much she makes of thee;
+    - Somewhither would she have thee go with her.
+1558 *MARCUS* % F
+    - Sweet poetry and Tully's Orator.
+    - *MARCUS* Canst thou not guess wherefore she plies thee thus?
+1616 *here* % OA
+    O 4.1.69; A 4.1.70
+    - I *here* have writ my name
+1733 [Good] *God* % C
+    C 4.2.51
+    - [Good] *God* morrow, lords.
+1791 [vigour] *figure* % O
+    O 4.2.110
+    - The [vigour] *figure* and the picture of my youth.
+1807 [that] *your* % RC
+    R 4.2.124; C 4.2.124
+    - And from [that] *your* womb where you imprisoned were
+1819 *do* % O
+    O 4.2.135
+    - Why, so, brave lords, when we *do* join in league
+1862 [feed] *fat* % OA
+    O 4.2.177; A 4.2.180
+    - I'll make you feed on berries and on roots,
+    - And [feed] *fat* on curds and whey, and suck the goat,
+1905 [so] *now* % O
+    O 4.3.40
+    - Marry, for Justice, she is [so] *now* employed,
+1932 [aim] *aimed* % RA
+    R 4.3.66; A 4.3.66
+    - My lord, I [aim] *aimed* a mile beyond the moon:
+1952 [Jubiter] *Jupiter* % O
+    O 4.3.85
+    - Alas, sir, I know not [Jubiter] *Jupiter*.
+1962 _7 lines omitted_ % O
+    - and one of the Emperal's men.
+    - [MARCUS Why, sir, that is as fit as can be to serve for]
+    - [your oration; and let him deliver the pigeons to the]
+    - [Emperor from you.]
+    - [TITUS Tell me, can you deliver an oration to the]
+    - [Emperor with a grace?]
+    - [CLOWN Nay, truly, sir, I could never say grace in all]
+    - [my life.]
+    - TITUS Sirrah, come hither. Make no more ado,
+1984 [thou] *then* % R
+    R 4.3.117
+    - For [thou] *then* hast made it like an humble suppliant.
+2036 [good e'en] *godden* % RC
+    R 4.4.43; C 4.4.42
+    - God and Saint Stephen give you [good e'en] *godden*
+2042 *r* % FN
+    F 4.4.51; N 4.4.47
+    - Hang'd! by'*r* lady, then I have brought up a neck
+2099 [in] *on* % O
+    O 4.4.105
+    - And if he stand [in] *on* hostage for his safety,
+2107 [successantly] *incessantly* % OA
+    O 4.4.113; A 4.4.113
+    - Then go [successantly] *incessantly*, and plead to him.
+2139 [dame] *dam* % CON
+    C 5.1.27; O 5.1.27; N 5.1.27
+    - half me and half thy [dame] *dam*!
+2158 *what* % O
+    O 5.1.46
+    - Why dost not speak? What, deaf? *What*, not a word?
+2198 [nourish] *nurse* % OA
+    O 5.1.84; A 5.1.84
+    - To save my boy, to [nourish] *nurse* and bring him up,
+2249 [haystacks] *haystalks* % RF
+    R 5.1.133; F 5.1.135
+    - Set fire on barns and [haytacks] *haystalks* in the night,
+2302 [action] *that accord* % RN
+    R 5.2.18; N 5.2.18
+    - Wanting a hand to give it [action] *that accord*
+2335 [globes] *globe* % OAF
+    O 5.2.49; A 5.2.49; F 5.2.50
+    - And whirl along with thee about the [globes] *globe*.
+2336 [thee] % O
+    O 5.2.50
+    - Provide [thee] two proper palfreys, black as jet, 
+2431 [dam] *dame* % R
+    R 5.2.144
+    - A pair of cursed hell-hounds and their [dam] *dame*.
+2577 [ROMAN LORD] [Let] *Lest*
+    F 5.3.74
+    - These broken limbs again into one body,
+    - [ROMAN LORD] [Let] *Lest* Rome herself be bane unto herself,
+2545 [and] % O
+    O 5.3.42
+    - A reason mighty, strong, [and] effectual;
+2645 [MARCUS] *ROMANS* % ROF
+    R 5.3.141; O 5.3.140; F 5.3.143
+    - [MARCUS] *ROMANS* Lucius, all hail, Rome's royal emperor!
+    - *MARCUS* Go, go into old Titus' sorrowful house,
+2650 [ROMANS] % CN
+    C 5.3.145; N 5.3.145
+    - [ROMANS] Lucius, all hail, Rome's gracious governor!
